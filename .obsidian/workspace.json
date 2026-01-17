@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "b05707672a87d677",
+    "type": "split",
+    "children": [
+      {
+        "id": "af8c1934af802278",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c51e88536c0841df",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "e6d4de34591b7ec1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "cf18f9c267b0407f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian_math-master/1-1. 函数的极限与连续/无穷小.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "无穷小"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c81a6f19563a0faf",
+    "type": "split",
+    "children": [
+      {
+        "id": "adaff04e72f5cf78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee91808e011d588a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9a456ebcf8666bd0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#第四章",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8eca007f40998db8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "28173abe19e83779",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bbc35f96d24d03a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "68ec679ebeb4e781",
+        "type": "tabs",
+        "dimension": 60.85271317829457,
+        "children": [
+          {
+            "id": "34300bd944c489f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "现代传感器技术与应用/现代传感器技术与应用.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "现代传感器技术与应用 的反向链接列表"
+            }
+          },
+          {
+            "id": "341f350fa3cf15f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "现代传感器技术与应用/现代传感器技术与应用.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "现代传感器技术与应用 的出链列表"
+            }
+          },
+          {
+            "id": "40dd6eae48cbfc2a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "01563692fd26a893",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/期末模拟卷练习（2）.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "期末模拟卷练习（2） 的大纲"
+            }
+          },
+          {
+            "id": "053f4fe5b77e389b",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "75153193ac91fa7b",
+        "type": "tabs",
+        "dimension": 39.14728682170542,
+        "children": [
+          {
+            "id": "47548ad38e730681",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "c51e88536c0841df",
+  "lastOpenFiles": [
+    "obsidian_math-master/1-1. 函数的极限与连续/泰勒公式.md",
+    "obsidian_math-master/1-1. 函数的极限与连续/无穷小.md",
+    "教材/1-140/1-140.md",
+    "教材/1-140/e889129d-2fa4-4cf5-b8c4-faca9fc6c862_origin.pdf",
+    "obsidian_math-master/线性代数主目录.md",
+    "教材/1-140/images/ffcb336f959ef35d953e09f9cdb18d0290021161b3d8ce3514aff1b1a1829c48.jpg",
+    "教材/1-140/images/ffa00bd15e35f22cfd21ef8cea6321e84cda30058b3ed9aaa58a6a39bd2e2672.jpg",
+    "教材/1-140/images/ff869a3dfca8f4f1b5c895fa82da8d27a442d3c1a495a7c653049500ddad8d91.jpg",
+    "教材/1-140/images/ff21bc1bc5a099365040ee67e517baefb76d5ab94f16788ac4360e5a03a2590f.jpg",
+    "教材/1-140/images/fec74dd430ba142f199bf5fb9044bcdfc30ce7d46647cf162563fe752cf253da.jpg",
+    "教材/1-140/images/feb7bdd05b5349e5f5a6c3e08d74f232d26a69b81f2f34a11e14903a82a74196.jpg",
+    "教材/1-140/images/fe8d1ac09bb4aa864226b043eb03cea101a4c6eef8a60052a4542dd65cc51748.jpg",
+    "教材/1-140/images/fded5f9e9431a231ab0f96cb3d0812016ea29316830aa4c50724f3419fe15046.jpg",
+    "教材/1-140/images/fdb6a535966efe541ff5c4c9373510f03b9db780fcb958905e9ea26fd795825c.jpg",
+    "教材/1-140/images/fd55de5be8d9a71e20ecfa4835793eb2363035bcfe748cad82f358cb7f45aa70.jpg",
+    "教材/1-140/images",
+    "教材/1-140/layout.json",
+    "教材/1-140/e889129d-2fa4-4cf5-b8c4-faca9fc6c862_model.json",
+    "教材/1-140/e889129d-2fa4-4cf5-b8c4-faca9fc6c862_content_list.json",
+    "教材/1-140/block_list.json",
+    "教材/1-140",
+    "教材/1-140.md",
+    "未命名",
+    "教材",
+    "obsidian_math-master/高等数学主目录.md",
+    "新建 文本文档.txt",
+    "obsidian_math-master/1-1. 函数的极限与连续/洛必达法则.md",
+    "obsidian_math-master/1-1. 函数的极限与连续/无穷大.md",
+    "解题技巧/矩阵方程“凑项”求逆.md",
+    "解题技巧/极大无关组表示其他向量.md",
+    "解题技巧/二次型解题步骤.md",
+    "解题技巧/易错公式清单.md",
+    "Excalidraw/期末模拟卷练习（2）.md",
+    "解题技巧/向量组线性相关的判定.md",
+    "Excalidraw/期末模拟卷练习（1）.md",
+    "解题技巧/矩阵秩与线性方程组解的关系.md",
+    "线性代数期末总复习.pdf-64000236-9abc-4a13-91f6-c3b591c78dcb/线性代数期末总复习.md",
+    "线性代数_同济第六版【高清OCR可检索版本】1.pdf-1084740b-1438-4cc6-8b15-a3a1a113efc1/工程数学.md",
+    "解题技巧/线性方程组解的结构知识总结.md",
+    "解题技巧/矩阵方程求解 - 增广矩阵法详解.md",
+    "解题技巧/相似矩阵.md",
+    "期末样卷选填解析.pdf-2414f211-6e3f-4ce8-b10f-8d554e43df08/期末样卷选填解析.md",
+    "期末模拟试卷.pdf-bacb03cc-d58e-4cc0-ad59-5dbf3c06bbfd/期末模拟试卷.md",
+    "未命名.md",
+    "Excalidraw/Scripts/Toggle Color.md",
+    "未命名.canvas"
+  ]
+}
