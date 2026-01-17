@@ -16,8 +16,22 @@
               "icon": "database",
               "title": "单词列表"
             }
+          },
+          {
+            "id": "85c9290feacdd339",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "未命名.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,8 +109,7 @@
               "title": "查词面板"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,8 +253,10 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "ff6b2e5ca49e2048",
+  "active": "85c9290feacdd339",
   "lastOpenFiles": [
+    "欢迎.md",
+    "未命名.base",
     "obsidian_math-master/1-1. 函数的极限与连续/泰勒公式.md",
     "obsidian_math-master/1-1. 函数的极限与连续/无穷小.md",
     "教材/1-140/1-140.md",
@@ -267,7 +282,6 @@
     "未命名",
     "教材",
     "obsidian_math-master/高等数学主目录.md",
-    "新建 文本文档.txt",
     "obsidian_math-master/1-1. 函数的极限与连续/洛必达法则.md",
     "obsidian_math-master/1-1. 函数的极限与连续/无穷大.md",
     "解题技巧/矩阵方程“凑项”求逆.md",
