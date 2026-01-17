@@ -21,13 +21,14 @@
             "id": "85c9290feacdd339",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "试题分析/2009/text4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "text4"
             }
           }
         ],
@@ -255,8 +256,8 @@
   },
   "active": "85c9290feacdd339",
   "lastOpenFiles": [
-    "试题分析/2009/text4.md",
     "未命名.base",
+    "试题分析/2009/text4.md",
     "试题分析/2009/~$text3.xlsx",
     "试题分析/2008/完型/完型.xlsx",
     "试题分析/2008/完型/完型.md",
