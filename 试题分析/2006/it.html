@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>句子结构分析对话</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .conversation {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+        .user-question, .analysis-reply {
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .user-question {
+            background-color: #f8f9fa;
+        }
+        .analysis-reply {
+            background-color: #fff;
+        }
+        h2 {
+            color: #2c3e50;
+            margin-top: 0;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        h3 {
+            color: #34495e;
+            margin-top: 25px;
+            margin-bottom: 15px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+        }
+        th {
+            background-color: #f1f2f3;
+            font-weight: bold;
+        }
+        strong {
+            color: #2980b9;
+        }
+        .layer-logic {
+            margin: 15px 0;
+            padding-left: 20px;
+        }
+        .layer-logic li {
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="conversation">
+        <!-- 用户提问部分 -->
+        <div class="user-question">
+            <h2>用户提问</h2>
+            <p>分析一下这个句子的结构：It is worrisome that society is medicalizing more and more behavioral problems</p>
+        </div>
+
+        <!-- 分析回复部分 -->
+        <div class="analysis-reply">
+            <h2>分析回复</h2>
+            <p>要分析句子 <strong>It is worrisome that society is medicalizing more and more behavioral problems</strong> 的结构，我们可以从「核心框架→成分拆解→语法细节」三个层面逐步拆解，明确各部分的功能和逻辑关系：</p>
+
+            <h3>一、核心框架：形式主语（It）+ 真正主语（that从句）</h3>
+            <p>这是一个典型的 <strong>“形式主语It” 句型</strong>，核心目的是避免“真正主语过长导致句子头重脚轻”。</p>
+            <p>句子的本质逻辑是：<strong>That society is medicalizing...（真正主语） is worrisome（表语）</strong>，但为了结构平衡，用无实际意义的 <strong>It</strong> 占据主语位置，将真正主语（that从句）后置。</p>
+
+            <h3>二、逐成分拆解（句子主干+修饰语）</h3>
+            <p>我们按“主谓表”的主干结构拆分，再补充修饰成分，具体如下：</p>
+            <table>
+                <tr>
+                    <th>句子成分</th>
+                    <th>对应内容</th>
+                    <th>功能说明</th>
+                </tr>
+                <tr>
+                    <td><strong>形式主语</strong></td>
+                    <td>It</td>
+                    <td>无实际语义，仅替代后置的真正主语，使句子结构平衡。</td>
+                </tr>
+                <tr>
+                    <td><strong>系动词</strong></td>
+                    <td>is</td>
+                    <td>连接主语（It）和表语（worrisome），构成“主系表”主干。</td>
+                </tr>
+                <tr>
+                    <td><strong>表语</strong></td>
+                    <td>worrisome</td>
+                    <td>形容词，描述“主语所指代的事情”的性质（“令人担忧的”），补充主语的特征。</td>
+                </tr>
+                <tr>
+                    <td><strong>真正主语</strong></td>
+                    <td>that society is medicalizing more and more behavioral problems</td>
+                    <td>由 <strong>that</strong> 引导的「主语从句」，是句子的“真正核心内容”，表达“令人担忧的具体事情”。</td>
+                </tr>
+            </table>
+
+            <h3>三、深入拆解“真正主语（that主语从句）”</h3>
+            <p>主语从句内部也有完整的“主谓宾”结构，进一步拆解如下：</p>
+            <table>
+                <tr>
+                    <th>从句成分</th>
+                    <th>对应内容</th>
+                    <th>功能说明</th>
+                </tr>
+                <tr>
+                    <td>引导词</td>
+                    <td>that</td>
+                    <td>无实际语义，仅起“连接主句与从句”的语法作用，不可省略（主语从句的that通常不省略）。</td>
+                </tr>
+                <tr>
+                    <td>从句主语</td>
+                    <td>society</td>
+                    <td>名词（“社会”），是从句动作的发出者。</td>
+                </tr>
+                <tr>
+                    <td>从句谓语</td>
+                    <td>is medicalizing</td>
+                    <td>动词短语（“正在医学化”），由“be动词+现在分词”构成<strong>现在进行时</strong>，表示“当前正在发生的动作”。</td>
+                </tr>
+                <tr>
+                    <td>从句宾语</td>
+                    <td>more and more behavioral problems</td>
+                    <td>名词短语，是“medicalizing（医学化）”的对象；其中 <strong>more and more</strong> 是程度状语，修饰“behavioral problems”，表示“越来越多的”。</td>
+                </tr>
+            </table>
+
+            <h3>四、总结：句子结构分层图</h3>
+            <p>为了更直观理解，我们用“分层逻辑”展示整个句子的关系：</p>
+            <ol class="layer-logic">
+                <li>主句主干：<strong>It（形式主语） + is（系动词） + worrisome（表语）</strong></li>
+                <li>真正主语（后置）：<strong>that 引导的主语从句</strong>
+                    <ul>
+                        <li>从句主干：<strong>society（主） + is medicalizing（谓） + behavioral problems（宾）</strong></li>
+                        <li>从句修饰语：<strong>more and more</strong>（程度状语，修饰宾语）</li>
+                    </ul>
+                </li>
+            </ol>
+
+            <p>简单来说，这个句子的核心是“社会正将越来越多的行为问题医学化——这件事令人担忧”，通过“形式主语It”的结构让表达更简洁自然。</p>
+
+                    </div>
+    </div>
+</body>
+</html>
