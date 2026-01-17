@@ -4,7 +4,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-outliner",
   "obsidian-another-quick-switcher",
-  "highlightr-plugin",
   "editing-toolbar",
   "obsidian-hover-editor",
   "obsidian-emoji-toolbar",
@@ -12,8 +11,10 @@
   "obsidian-latex-suite",
   "mermaid-tools",
   "mehrmaid",
-  "easy-typing-obsidian",
   "obsidian-completr",
   "obsidian42-brat",
-  "obsidian-language-learner"
+  "obsidian-language-learner",
+  "painter",
+  "obsidian-spaced-repetition",
+  "easy-typing-obsidian"
 ]

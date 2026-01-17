@@ -100,5 +100,71 @@
       "key": "K"
     }
   ],
-  "easy-typing-obsidian:easy-typing-delete-blank-line": []
+  "easy-typing-obsidian:easy-typing-delete-blank-line": [],
+  "obsidian-completr:completr-bypass-tab-key": [],
+  "easy-typing-obsidian:easy-typing-format-switch": [],
+  "obsidian-language-learner:langr-search-word-select": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "painter:paint-r": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "painter:paint-g": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
+  ],
+  "painter:paint-p": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ],
+  "painter:paint-b": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "4"
+    }
+  ],
+  "painter:paint-aa": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "5"
+    }
+  ],
+  "painter:paint-o": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "6"
+    }
+  ],
+  "painter:remove-highlight": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
+  ]
 }

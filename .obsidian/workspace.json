@@ -4,25 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "57e79bc07b3bbdcd",
+        "id": "53008cbbd78b6154",
         "type": "tabs",
         "children": [
           {
-            "id": "18d890f9ea646954",
+            "id": "3f60b28e60032834",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "langr-reading",
               "state": {
-                "file": "试题分析/2009/text4.md",
-                "mode": "source",
-                "source": false
+                "file": "试题分析/2009/text4.md"
               },
-              "icon": "lucide-file",
+              "icon": "highlight-glyph",
               "title": "text4"
             }
           },
           {
-            "id": "c55fb52bc760b497",
+            "id": "1d81d179b1700b37",
             "type": "leaf",
             "state": {
               "type": "langr-data-panel",
@@ -63,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#第四章",
+                "query": "tag:#word",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +98,7 @@
             }
           },
           {
-            "id": "13300da46ac06970",
+            "id": "d1adac42f1ecf04d",
             "type": "leaf",
             "state": {
               "type": "langr-search-panel",
@@ -110,10 +108,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "574b2d1f66dbb8b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47548ad38e730681",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 318.5
   },
   "right": {
     "id": "bbc35f96d24d03a6",
@@ -122,7 +136,6 @@
       {
         "id": "68ec679ebeb4e781",
         "type": "tabs",
-        "dimension": 60.85271317829457,
         "children": [
           {
             "id": "34300bd944c489f4",
@@ -197,7 +210,17 @@
             }
           },
           {
-            "id": "b77b51c93592060f",
+            "id": "8be5810b1a2240b5",
+            "type": "leaf",
+            "state": {
+              "type": "langr-learn-panel",
+              "state": {},
+              "icon": "reading-glasses",
+              "title": "学习新单词"
+            }
+          },
+          {
+            "id": "335f8b5cbf98f419",
             "type": "leaf",
             "state": {
               "type": "langr-stat",
@@ -207,38 +230,21 @@
             }
           },
           {
-            "id": "3a19a4a3a6215483",
+            "id": "e5fa3801a5fa15ba",
             "type": "leaf",
             "state": {
-              "type": "langr-learn-panel",
+              "type": "review-queue-list-view",
               "state": {},
-              "icon": "reading-glasses",
-              "title": "学习新单词"
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "75153193ac91fa7b",
-        "type": "tabs",
-        "dimension": 39.14728682170542,
-        "children": [
-          {
-            "id": "47548ad38e730681",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,13 +265,20 @@
       "obsidian-language-learner:打开查词面板": false,
       "obsidian-language-learner:打开新词面板": false,
       "obsidian-language-learner:打开统计": false,
-      "obsidian-language-learner:单词列表": false
+      "obsidian-language-learner:单词列表": false,
+      "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "01563692fd26a893",
+  "active": "3f60b28e60032834",
   "lastOpenFiles": [
+    "单词复习.md",
+    "生词本.md",
     "试题分析/2009/text4.md",
+    "text4.md",
+    "试题分析/2009/~$text3.docx",
+    "未命名 1.md",
     "未命名.base",
+    "未命名",
     "未命名 1.base",
     "未命名 2.base",
     "试题分析/2009/~$text3.xlsx",
@@ -274,8 +287,6 @@
     "试题分析/2008/完型/完型.docx",
     "试题分析/2002/阅读/text4.xlsx",
     "试题分析/2002/阅读/text4.docx",
-    "试题分析/2002/阅读/text3.docx",
-    "试题分析/2002/阅读/text3.xlsx",
     "欢迎.md",
     "obsidian_math-master/1-1. 函数的极限与连续/泰勒公式.md",
     "obsidian_math-master/1-1. 函数的极限与连续/无穷小.md",
@@ -305,10 +316,6 @@
     "解题技巧/矩阵秩与线性方程组解的关系.md",
     "线性代数期末总复习.pdf-64000236-9abc-4a13-91f6-c3b591c78dcb/线性代数期末总复习.md",
     "线性代数_同济第六版【高清OCR可检索版本】1.pdf-1084740b-1438-4cc6-8b15-a3a1a113efc1/工程数学.md",
-    "解题技巧/线性方程组解的结构知识总结.md",
-    "解题技巧/矩阵方程求解 - 增广矩阵法详解.md",
-    "解题技巧/相似矩阵.md",
-    "期末样卷选填解析.pdf-2414f211-6e3f-4ce8-b10f-8d554e43df08/期末样卷选填解析.md",
     "未命名.canvas"
   ]
 }
