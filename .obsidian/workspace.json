@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cf659f0da5ec334d",
+        "id": "57e79bc07b3bbdcd",
         "type": "tabs",
         "children": [
           {
-            "id": "ff6b2e5ca49e2048",
-            "type": "leaf",
-            "state": {
-              "type": "langr-data-panel",
-              "state": {},
-              "icon": "database",
-              "title": "单词列表"
-            }
-          },
-          {
-            "id": "85c9290feacdd339",
+            "id": "18d890f9ea646954",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +20,18 @@
               "icon": "lucide-file",
               "title": "text4"
             }
+          },
+          {
+            "id": "c55fb52bc760b497",
+            "type": "leaf",
+            "state": {
+              "type": "langr-data-panel",
+              "state": {},
+              "icon": "database",
+              "title": "单词列表"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/期末模拟卷练习（2）.md",
+                "file": "试题分析/2009/text4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "期末模拟卷练习（2） 的大纲"
+              "title": "text4 的大纲"
             }
           },
           {
@@ -206,9 +205,19 @@
               "icon": "bar-chart-4",
               "title": "统计"
             }
+          },
+          {
+            "id": "3a19a4a3a6215483",
+            "type": "leaf",
+            "state": {
+              "type": "langr-learn-panel",
+              "state": {},
+              "icon": "reading-glasses",
+              "title": "学习新单词"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "75153193ac91fa7b",
@@ -229,8 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,10 +262,12 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "85c9290feacdd339",
+  "active": "01563692fd26a893",
   "lastOpenFiles": [
-    "未命名.base",
     "试题分析/2009/text4.md",
+    "未命名.base",
+    "未命名 1.base",
+    "未命名 2.base",
     "试题分析/2009/~$text3.xlsx",
     "试题分析/2008/完型/完型.xlsx",
     "试题分析/2008/完型/完型.md",
@@ -266,8 +276,6 @@
     "试题分析/2002/阅读/text4.docx",
     "试题分析/2002/阅读/text3.docx",
     "试题分析/2002/阅读/text3.xlsx",
-    "试题分析/2002/阅读/text1.xlsx",
-    "试题分析/2002/阅读/text1.docx",
     "欢迎.md",
     "obsidian_math-master/1-1. 函数的极限与连续/泰勒公式.md",
     "obsidian_math-master/1-1. 函数的极限与连续/无穷小.md",
