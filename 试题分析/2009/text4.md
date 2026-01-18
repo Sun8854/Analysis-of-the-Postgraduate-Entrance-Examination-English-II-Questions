@@ -56,9 +56,11 @@ Meanwhile, many settlers had slighter religious commitments than Dane's, as one 
 
 ^^^words
 + **according to** : 根据
++ **attached to intellectual pursuits.** : 执着于知识追求的
 + **intellectuals** : 知识分子
 + **ministers** : 牧师，部长
 + **philosophy** : 哲学
 + **thoroughly** : 透彻的
++ **unfolding** : 不断发展的，不断展开的
 
 ^^^notes
