@@ -108,8 +108,7 @@
               "title": "查词面板"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "574b2d1f66dbb8b2",
@@ -233,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -253,7 +252,6 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-language-learner:打开查词面板": false,
       "obsidian-language-learner:打开新词面板": false,
@@ -262,12 +260,12 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "41bc3ad0dc74c8b2",
+  "active": "e5fa3801a5fa15ba",
   "lastOpenFiles": [
-    "试题分析/2009/~$text3.docx",
-    "试题分析/2009/text4.md",
-    "单词复习.md",
     "生词本.md",
+    "单词复习.md",
+    "试题分析/2009/text4.md",
+    "试题分析/2009/~$text3.docx",
     "text4.md",
     "未命名 1.md",
     "未命名.base",

@@ -48999,6 +48999,7 @@ settle
 sermons
 slighter
 superstitions
+settler
 under
 uH
 ux
@@ -56742,6 +56743,7 @@ affairs
 abandoned
 activities
 according
+adjust
 CFGDM
 Catalog
 Count
