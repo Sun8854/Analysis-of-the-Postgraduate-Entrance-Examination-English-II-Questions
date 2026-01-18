@@ -33,13 +33,13 @@
       "priority": 5
     }
   },
-  "dict_height": "400px",
+  "dict_height": "500px",
   "db_name": "WordDB",
   "word_database": "生词本.md",
   "review_database": "单词复习.md",
   "col_delimiter": ",",
   "auto_refresh_db": true,
-  "default_paragraphs": "4",
+  "default_paragraphs": "all",
   "font_size": "20px",
   "font_family": "\"Times New Roman\"",
   "line_height": "1.8em",
