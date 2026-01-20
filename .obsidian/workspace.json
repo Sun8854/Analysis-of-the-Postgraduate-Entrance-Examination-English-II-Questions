@@ -248,23 +248,13 @@
               "icon": "bar-chart-4",
               "title": "统计"
             }
-          },
-          {
-            "id": "e5fa3801a5fa15ba",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "笔记复习序列"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 390.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,11 +278,11 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "e5fa3801a5fa15ba",
+  "active": "335f8b5cbf98f419",
   "lastOpenFiles": [
+    "试题分析/2009/text4.md",
     "生词本.md",
     "试题分析/2009/新题型.md",
-    "试题分析/2009/text4.md",
     "试题分析/2009/2009年考研英语真题解析.pdf",
     "模板.md",
     "单词复习.md",
