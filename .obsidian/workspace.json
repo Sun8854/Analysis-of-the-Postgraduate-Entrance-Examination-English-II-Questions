@@ -248,9 +248,19 @@
               "icon": "bar-chart-4",
               "title": "统计"
             }
+          },
+          {
+            "id": "aa1ceb661e8cc4cc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -278,7 +288,7 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "335f8b5cbf98f419",
+  "active": "aa1ceb661e8cc4cc",
   "lastOpenFiles": [
     "试题分析/2009/text4.md",
     "生词本.md",
