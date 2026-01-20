@@ -81,11 +81,11 @@ Meanwhile, many settlers had slighter religious commitments than Dane's, as one 
 	[C] puzzled by church sermons. 
 	[C] 对教堂布道感到困惑。
 
-	[D]frustratedwithfamilyearnings.
+	[D]frustrated with family earnings.
 	[D] 对家庭收入感到沮丧。
 
 5. The text suggests that early settlers in New England
-文章建议新英格兰的早期定居者
+文章说明新英格兰的早期定居者
 
 	[A] were mostly engaged in political activities. 
 	[A] 主要从事政治活动。
@@ -120,6 +120,7 @@ Meanwhile, many settlers had slighter religious commitments than Dane's, as one 
 + **examination** : 调查，审查，考试
 + **extensively** : 大量的，广泛的
 + **folk** : 人们，民俗的
++ **illusory** : 虚假的，幻觉的
 + **important subjects** : 重要课题
 + **impressive education** : 指一个人所接受的教育背景
 + **in keeping with** : 与……保持一致
@@ -133,8 +134,10 @@ Meanwhile, many settlers had slighter religious commitments than Dane's, as one 
 + **let alone** : 更不用说
 + **ministers** : 牧师，部长
 + **normally means to** : 通常意味着
++ **obsessed** : 使痴迷
 + **our main end was to catch fish** : 我们的主要目的是捕鱼。
 + **philosophy** : 哲学
++ **prospect** : 前景、可能性
 + **settle his fate** : 决定他的命运
 + **superstitious** : 迷信的
 + **the author holds** : 作者认为
