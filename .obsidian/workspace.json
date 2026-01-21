@@ -42,17 +42,15 @@
             }
           },
           {
-            "id": "579e1a35c768f536",
+            "id": "ab6fe9d77e36a751",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "langr-reading",
               "state": {
-                "file": "生词本.md",
-                "mode": "source",
-                "source": false
+                "file": "试题分析/2009/翻译.md"
               },
-              "icon": "lucide-file",
-              "title": "生词本"
+              "icon": "highlight-glyph",
+              "title": "翻译"
             }
           }
         ],
@@ -135,7 +133,8 @@
               "title": "查词面板"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "574b2d1f66dbb8b2",
@@ -249,7 +248,7 @@
             }
           },
           {
-            "id": "aa1ceb661e8cc4cc",
+            "id": "1afd7ff8a04e380a",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -288,35 +287,39 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "aa1ceb661e8cc4cc",
+  "active": "1afd7ff8a04e380a",
   "lastOpenFiles": [
-    "Excalidraw/翻译.md",
+    "试题分析/2009/新题型.md",
+    "试题分析/2009/text4.md",
+    "试题分析/2009/翻译.md",
+    "模板.md",
+    "Excalidraw/Drawing 2026-01-21 14.39.50.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-21 14.34.26.excalidraw.md",
     "生词本.md",
+    "Excalidraw/assets/Drawing 2026-01-21 14.34.26.excalidraw/Pasted Image 20260121143520_727.png",
+    "Excalidraw/assets/Drawing 2026-01-21 14.34.26.excalidraw",
+    "Excalidraw/assets",
+    "Excalidraw",
+    "Excalidraw/08、09翻译/OneNote_RecycleBin/打开笔记本.onetoc2",
+    "Excalidraw/08、09翻译/OneNote_RecycleBin/作文.one",
+    "Excalidraw/08、09翻译/OneNote_RecycleBin/OneNote_DeletedPages.one",
+    "Excalidraw/08、09翻译/打开笔记本.onetoc2",
+    "Excalidraw/08、09翻译/翻译.one",
+    "Excalidraw/08、09翻译/OneNote_RecycleBin",
+    "Excalidraw/08、09翻译",
+    "Excalidraw/翻译.md",
     "Excalidraw/Scripts/Split Text.md",
     "Excalidraw/Scripts/Split Selected Text Block.md",
     "Excalidraw/Scripts/Toggle Color.md",
-    "试题分析/2009/新题型.md",
     "Excalidraw/Scripts/Highlight and Bold Text.md",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw/打开笔记本.onetoc2",
     "试题分析/主观题/未命名.md",
-    "Excalidraw",
-    "试题分析/2009/text4.md",
-    "试题分析/2009/2009年考研英语真题解析.pdf",
-    "模板.md",
     "单词复习.md",
-    "试题分析/2009/~$text3.docx",
     "text4.md",
     "未命名 1.md",
-    "未命名.base",
-    "未命名",
-    "未命名 1.base",
-    "未命名 2.base",
     "试题分析/2008/完型/完型.md",
     "欢迎.md",
     "obsidian_math-master/1-1. 函数的极限与连续/泰勒公式.md",
@@ -330,12 +333,7 @@
     "教材/1-140/images/fec74dd430ba142f199bf5fb9044bcdfc30ce7d46647cf162563fe752cf253da.jpg",
     "教材/1-140/images/feb7bdd05b5349e5f5a6c3e08d74f232d26a69b81f2f34a11e14903a82a74196.jpg",
     "教材/1-140/images/fe8d1ac09bb4aa864226b043eb03cea101a4c6eef8a60052a4542dd65cc51748.jpg",
-    "教材/1-140/images/fded5f9e9431a231ab0f96cb3d0812016ea29316830aa4c50724f3419fe15046.jpg",
     "教材/1-140.md",
-    "obsidian_math-master/高等数学主目录.md",
-    "obsidian_math-master/1-1. 函数的极限与连续/洛必达法则.md",
-    "obsidian_math-master/1-1. 函数的极限与连续/无穷大.md",
-    "解题技巧/矩阵方程“凑项”求逆.md",
     "未命名.canvas"
   ]
 }
