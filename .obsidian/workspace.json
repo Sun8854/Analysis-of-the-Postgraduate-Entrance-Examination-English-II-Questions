@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "98bb43130897b7d1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "试题分析/主观题/Excalidraw/翻译.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "翻译"
-            }
-          },
-          {
             "id": "dc21cf4196443f5d",
             "type": "leaf",
             "state": {
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -301,15 +289,25 @@
       "card-note:Search Notes": false
     }
   },
-  "active": "98bb43130897b7d1",
+  "active": "579e1a35c768f536",
   "lastOpenFiles": [
-    "试题分析/主观题/Excalidraw/打开笔记本.onetoc2",
-    "试题分析/主观题/未命名.md",
-    "试题分析/主观题/Excalidraw/翻译.md",
-    "试题分析/主观题/Excalidraw",
-    "试题分析/2009/新题型.md",
-    "试题分析/2009/text4.md",
+    "Excalidraw/翻译.md",
     "生词本.md",
+    "Excalidraw/Scripts/Split Text.md",
+    "Excalidraw/Scripts/Split Selected Text Block.md",
+    "Excalidraw/Scripts/Toggle Color.md",
+    "试题分析/2009/新题型.md",
+    "Excalidraw/Scripts/Highlight and Bold Text.md",
+    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
+    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw/打开笔记本.onetoc2",
+    "试题分析/主观题/未命名.md",
+    "Excalidraw",
+    "试题分析/2009/text4.md",
     "试题分析/2009/2009年考研英语真题解析.pdf",
     "模板.md",
     "单词复习.md",
@@ -320,10 +318,7 @@
     "未命名",
     "未命名 1.base",
     "未命名 2.base",
-    "试题分析/2009/~$text3.xlsx",
-    "试题分析/2008/完型/完型.xlsx",
     "试题分析/2008/完型/完型.md",
-    "试题分析/2008/完型/完型.docx",
     "欢迎.md",
     "obsidian_math-master/1-1. 函数的极限与连续/泰勒公式.md",
     "obsidian_math-master/1-1. 函数的极限与连续/无穷小.md",
@@ -337,18 +332,11 @@
     "教材/1-140/images/feb7bdd05b5349e5f5a6c3e08d74f232d26a69b81f2f34a11e14903a82a74196.jpg",
     "教材/1-140/images/fe8d1ac09bb4aa864226b043eb03cea101a4c6eef8a60052a4542dd65cc51748.jpg",
     "教材/1-140/images/fded5f9e9431a231ab0f96cb3d0812016ea29316830aa4c50724f3419fe15046.jpg",
-    "教材/1-140/images/fdb6a535966efe541ff5c4c9373510f03b9db780fcb958905e9ea26fd795825c.jpg",
-    "教材/1-140/images/fd55de5be8d9a71e20ecfa4835793eb2363035bcfe748cad82f358cb7f45aa70.jpg",
     "教材/1-140.md",
     "obsidian_math-master/高等数学主目录.md",
     "obsidian_math-master/1-1. 函数的极限与连续/洛必达法则.md",
     "obsidian_math-master/1-1. 函数的极限与连续/无穷大.md",
     "解题技巧/矩阵方程“凑项”求逆.md",
-    "解题技巧/极大无关组表示其他向量.md",
-    "解题技巧/二次型解题步骤.md",
-    "解题技巧/易错公式清单.md",
-    "Excalidraw/期末模拟卷练习（2）.md",
-    "解题技巧/向量组线性相关的判定.md",
     "未命名.canvas"
   ]
 }

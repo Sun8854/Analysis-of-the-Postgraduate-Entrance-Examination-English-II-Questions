@@ -166,5 +166,21 @@
       ],
       "key": "X"
     }
+  ],
+  "obsidian-excalidraw-plugin:Highlight and Bold Text": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
+  "obsidian-excalidraw-plugin:Split Text": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
   ]
 }
