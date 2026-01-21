@@ -231,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "试题分析/2009/text4.md",
+                "file": "试题分析/主观题/Excalidraw/翻译.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "text4 的大纲"
+              "title": "翻译 的大纲"
             }
           },
           {
@@ -297,7 +297,8 @@
       "obsidian-language-learner:打开新词面板": false,
       "obsidian-language-learner:打开统计": false,
       "obsidian-language-learner:单词列表": false,
-      "obsidian-spaced-repetition:复习卡片": false
+      "obsidian-spaced-repetition:复习卡片": false,
+      "card-note:Search Notes": false
     }
   },
   "active": "98bb43130897b7d1",
