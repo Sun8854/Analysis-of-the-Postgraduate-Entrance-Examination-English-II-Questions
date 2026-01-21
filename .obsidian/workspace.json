@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "98bb43130897b7d1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "试题分析/主观题/Excalidraw/翻译.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "翻译"
+            }
+          },
+          {
             "id": "dc21cf4196443f5d",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,8 +147,7 @@
               "title": "查词面板"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "574b2d1f66dbb8b2",
@@ -264,7 +275,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 390.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,11 +300,15 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "aa1ceb661e8cc4cc",
+  "active": "98bb43130897b7d1",
   "lastOpenFiles": [
+    "试题分析/主观题/Excalidraw/打开笔记本.onetoc2",
+    "试题分析/主观题/未命名.md",
+    "试题分析/主观题/Excalidraw/翻译.md",
+    "试题分析/主观题/Excalidraw",
+    "试题分析/2009/新题型.md",
     "试题分析/2009/text4.md",
     "生词本.md",
-    "试题分析/2009/新题型.md",
     "试题分析/2009/2009年考研英语真题解析.pdf",
     "模板.md",
     "单词复习.md",
@@ -307,7 +323,6 @@
     "试题分析/2008/完型/完型.xlsx",
     "试题分析/2008/完型/完型.md",
     "试题分析/2008/完型/完型.docx",
-    "试题分析/2002/阅读/text4.xlsx",
     "欢迎.md",
     "obsidian_math-master/1-1. 函数的极限与连续/泰勒公式.md",
     "obsidian_math-master/1-1. 函数的极限与连续/无穷小.md",
@@ -333,8 +348,6 @@
     "解题技巧/易错公式清单.md",
     "Excalidraw/期末模拟卷练习（2）.md",
     "解题技巧/向量组线性相关的判定.md",
-    "Excalidraw/期末模拟卷练习（1）.md",
-    "解题技巧/矩阵秩与线性方程组解的关系.md",
     "未命名.canvas"
   ]
 }

@@ -466,7 +466,7 @@
   "gridSettings": {
     "DYNAMIC_COLOR": true,
     "COLOR": "#000000",
-    "OPACITY": 50,
+    "OPACITY": 100,
     "GRID_DIRECTION": {
       "horizontal": true,
       "vertical": true
