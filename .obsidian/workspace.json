@@ -18,20 +18,6 @@
             }
           },
           {
-            "id": "57f71fd44c748348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "试题分析/2009/text4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "text4"
-            }
-          },
-          {
             "id": "8fbe595336cf14c1",
             "type": "leaf",
             "state": {
@@ -56,7 +42,7 @@
       {
         "id": "adaff04e72f5cf78",
         "type": "tabs",
-        "dimension": 66.12740141557128,
+        "dimension": 54.70171890798786,
         "children": [
           {
             "id": "ee91808e011d588a",
@@ -123,12 +109,13 @@
               "title": "查词面板"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "574b2d1f66dbb8b2",
         "type": "tabs",
-        "dimension": 33.872598584428715,
+        "dimension": 45.29828109201213,
         "children": [
           {
             "id": "47548ad38e730681",
@@ -139,8 +126,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8be5810b1a2240b5",
+            "type": "leaf",
+            "state": {
+              "type": "langr-learn-panel",
+              "state": {},
+              "icon": "reading-glasses",
+              "title": "学习新单词"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,16 +215,6 @@
             }
           },
           {
-            "id": "8be5810b1a2240b5",
-            "type": "leaf",
-            "state": {
-              "type": "langr-learn-panel",
-              "state": {},
-              "icon": "reading-glasses",
-              "title": "学习新单词"
-            }
-          },
-          {
             "id": "335f8b5cbf98f419",
             "type": "leaf",
             "state": {
@@ -247,11 +235,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,35 +263,44 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "57f71fd44c748348",
+  "active": "1afd7ff8a04e380a",
   "lastOpenFiles": [
+    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/解析.md",
     "试题分析/2009/完型.md",
+    "试题分析/2009/导出页面自 2009年考研英语真题解析.pdf",
+    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/fd8128ae83207decb7db904a3abcedaedf332deab41c8b16d5a54f5c5d6cf911.jpg",
+    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/f49d3024f55062b038b8a6450df1142c67bb0f3b72dbf9a4884df0f202c865d3.jpg",
+    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/f7e577eb3218a9af2fc13f2c8ea6bea2190d1d4b3b7423a9c50d672fd7fd41ec.jpg",
+    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/f0ecaada57c22958976ea1f212155f6ca3e015a94e90b61d0efafeca1b7b7691.jpg",
+    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/edcafb00b234963341e3fa637d8233e3c4f6d9397fd0841ca15f750d7cf6783e.jpg",
+    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/ee9f4cf61455b2b08d9440660fdb92bb52dcdefd9bd3c823eb0ef42339c4fd11.jpg",
+    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/ece3d88d286692d49ddd3aee874536a99013be32c76aea422ec6f826461f5005.jpg",
+    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/e0066814feb2a3bceb19f019184ebe701fe127d70413c87839bbc829bf9ffbf3.jpg",
+    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/ea3752dc817fe40d16040a584afbd9851a91d81e5cc1b5c153deddaba5f78a31.jpg",
+    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/dead973ca6406a28ac8d4ae0e965c5c886683da9576eca411cd573167583a39f.jpg",
+    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/layout.json",
+    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images",
+    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/e04bd70c-45cb-45be-b78f-1566ebca8256_origin.pdf",
+    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/e04bd70c-45cb-45be-b78f-1566ebca8256_model.json",
+    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/e04bd70c-45cb-45be-b78f-1566ebca8256_content_list.json",
+    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/block_list.json",
+    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c",
+    "阅读模板.md",
+    "完型模板.md",
     "试题分析/2009/text4.md",
     "试题分析/2009/新题型.md",
     "试题分析/2009/~$text1.docx",
-    "模板.md",
-    "试题分析/2009/导出页面自 2009年考研英语真题解析.pdf",
     "试题分析/2009/翻译.md",
     "Excalidraw/Drawing 2026-01-21 14.39.50.excalidraw.md",
     "Excalidraw/Drawing 2026-01-21 14.34.26.excalidraw.md",
     "生词本.md",
-    "Excalidraw/assets/Drawing 2026-01-21 14.34.26.excalidraw/Pasted Image 20260121143520_727.png",
     "Excalidraw/assets/Drawing 2026-01-21 14.34.26.excalidraw",
-    "Excalidraw/assets",
-    "Excalidraw",
-    "Excalidraw/08、09翻译/OneNote_RecycleBin/打开笔记本.onetoc2",
-    "Excalidraw/08、09翻译/OneNote_RecycleBin/作文.one",
-    "Excalidraw/08、09翻译/OneNote_RecycleBin/OneNote_DeletedPages.one",
-    "Excalidraw/08、09翻译/打开笔记本.onetoc2",
-    "Excalidraw/08、09翻译/翻译.one",
     "Excalidraw/翻译.md",
     "Excalidraw/Scripts/Split Text.md",
     "Excalidraw/Scripts/Split Selected Text Block.md",
     "Excalidraw/Scripts/Toggle Color.md",
     "Excalidraw/Scripts/Highlight and Bold Text.md",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "试题分析/主观题/未命名.md",
     "单词复习.md",
@@ -313,15 +310,6 @@
     "欢迎.md",
     "obsidian_math-master/1-1. 函数的极限与连续/泰勒公式.md",
     "obsidian_math-master/1-1. 函数的极限与连续/无穷小.md",
-    "教材/1-140/1-140.md",
-    "obsidian_math-master/线性代数主目录.md",
-    "教材/1-140/images/ffcb336f959ef35d953e09f9cdb18d0290021161b3d8ce3514aff1b1a1829c48.jpg",
-    "教材/1-140/images/ffa00bd15e35f22cfd21ef8cea6321e84cda30058b3ed9aaa58a6a39bd2e2672.jpg",
-    "教材/1-140/images/ff869a3dfca8f4f1b5c895fa82da8d27a442d3c1a495a7c653049500ddad8d91.jpg",
-    "教材/1-140/images/ff21bc1bc5a099365040ee67e517baefb76d5ab94f16788ac4360e5a03a2590f.jpg",
-    "教材/1-140/images/fec74dd430ba142f199bf5fb9044bcdfc30ce7d46647cf162563fe752cf253da.jpg",
-    "教材/1-140/images/feb7bdd05b5349e5f5a6c3e08d74f232d26a69b81f2f34a11e14903a82a74196.jpg",
-    "教材/1-140/images/fe8d1ac09bb4aa864226b043eb03cea101a4c6eef8a60052a4542dd65cc51748.jpg",
     "未命名.canvas"
   ]
 }
