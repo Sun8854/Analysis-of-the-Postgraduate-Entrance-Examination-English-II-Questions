@@ -265,14 +265,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "试题分析/2009/完型.md"
+                "file": "阅读模板.md"
               },
               "icon": "lucide-info",
-              "title": "完型的笔记属性"
+              "title": "阅读模板的笔记属性"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -300,7 +300,7 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "47548ad38e730681",
+  "active": "1afd7ff8a04e380a",
   "lastOpenFiles": [
     "试题分析/2009/完型.md",
     "阅读模板.md",
