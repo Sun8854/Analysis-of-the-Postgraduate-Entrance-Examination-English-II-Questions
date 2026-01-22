@@ -116,6 +116,7 @@ Meanwhile, many settlers had slighter religious commitments than Dane's, as one 
 + **decisive moment** : 决定性时刻
 + **dependents** : 受供养者
 + **distinctive** : 独特的
++ **dominant** : adj. 占支配地位的，占优势的；（基因）显性的
 + **emigrated** : 移居，移民
 + **examination** : 调查，审查，考试
 + **extensively** : 大量的，广泛的
@@ -149,6 +150,7 @@ Meanwhile, many settlers had slighter religious commitments than Dane's, as one 
 + **unfolding** : 不断发展的，不断展开的
 + **virtuosity** : 精湛技巧
 + **we should not forget, however** : 然而，我们不应该忘记
++ **while** : conj. 当……的时候；与……同时；而，然而（表示对比）；尽管，虽然；直到……为止
 
 ^^^notes
 >[!note]

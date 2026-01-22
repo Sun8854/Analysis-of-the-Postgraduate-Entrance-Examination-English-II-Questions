@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41bc3ad0dc74c8b2",
-            "type": "leaf",
-            "state": {
-              "type": "langr-reading",
-              "state": {
-                "file": "试题分析/2009/text4.md"
-              },
-              "icon": "highlight-glyph",
-              "title": "text4"
-            }
-          },
-          {
-            "id": "2a0f68cfcbe0bec8",
-            "type": "leaf",
-            "state": {
-              "type": "langr-reading",
-              "state": {
-                "file": "试题分析/2009/新题型.md"
-              },
-              "icon": "highlight-glyph",
-              "title": "新题型"
-            }
-          },
-          {
             "id": "dc21cf4196443f5d",
             "type": "leaf",
             "state": {
@@ -42,19 +18,21 @@
             }
           },
           {
-            "id": "ab6fe9d77e36a751",
+            "id": "2070fff8607e82f1",
             "type": "leaf",
             "state": {
-              "type": "langr-reading",
+              "type": "markdown",
               "state": {
-                "file": "试题分析/2009/翻译.md"
+                "file": "试题分析/2009/完型.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "highlight-glyph",
-              "title": "翻译"
+              "icon": "lucide-file",
+              "title": "完型"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,8 +111,7 @@
               "title": "查词面板"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "574b2d1f66dbb8b2",
@@ -287,10 +264,12 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "1afd7ff8a04e380a",
+  "active": "2070fff8607e82f1",
   "lastOpenFiles": [
-    "试题分析/2009/新题型.md",
+    "试题分析/2009/导出页面自 2009年考研英语真题解析.pdf",
+    "试题分析/2009/完型.md",
     "试题分析/2009/text4.md",
+    "试题分析/2009/新题型.md",
     "试题分析/2009/翻译.md",
     "模板.md",
     "Excalidraw/Drawing 2026-01-21 14.39.50.excalidraw.md",
@@ -333,7 +312,6 @@
     "教材/1-140/images/fec74dd430ba142f199bf5fb9044bcdfc30ce7d46647cf162563fe752cf253da.jpg",
     "教材/1-140/images/feb7bdd05b5349e5f5a6c3e08d74f232d26a69b81f2f34a11e14903a82a74196.jpg",
     "教材/1-140/images/fe8d1ac09bb4aa864226b043eb03cea101a4c6eef8a60052a4542dd65cc51748.jpg",
-    "教材/1-140.md",
     "未命名.canvas"
   ]
 }
