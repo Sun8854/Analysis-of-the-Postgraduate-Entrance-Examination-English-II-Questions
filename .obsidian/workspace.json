@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读模板.md",
-                "mode": "source",
+                "file": "生词本.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "阅读模板"
+              "title": "生词本"
             }
           },
           {
@@ -135,8 +135,7 @@
               "title": "查词面板"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "574b2d1f66dbb8b2",
@@ -250,29 +249,19 @@
             }
           },
           {
-            "id": "1afd7ff8a04e380a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "笔记复习序列"
-            }
-          },
-          {
             "id": "e6d3c05ab87338c7",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "阅读模板.md"
+                "file": "试题分析/2009/完型.md"
               },
               "icon": "lucide-info",
-              "title": "阅读模板的笔记属性"
+              "title": "完型的笔记属性"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -300,12 +289,13 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "1afd7ff8a04e380a",
+  "active": "47548ad38e730681",
   "lastOpenFiles": [
-    "试题分析/2009/完型.md",
+    "生词本.md",
     "阅读模板.md",
-    "未命名.base",
+    "试题分析/2009/完型.md",
     "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/解析.md",
+    "未命名.base",
     "试题分析/2009/导出页面自 2009年考研英语真题解析.pdf",
     "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/fd8128ae83207decb7db904a3abcedaedf332deab41c8b16d5a54f5c5d6cf911.jpg",
     "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/f49d3024f55062b038b8a6450df1142c67bb0f3b72dbf9a4884df0f202c865d3.jpg",
@@ -331,7 +321,6 @@
     "试题分析/2009/翻译.md",
     "Excalidraw/Drawing 2026-01-21 14.39.50.excalidraw.md",
     "Excalidraw/Drawing 2026-01-21 14.34.26.excalidraw.md",
-    "生词本.md",
     "Excalidraw/翻译.md",
     "Excalidraw/Scripts/Split Text.md",
     "Excalidraw/Scripts/Split Selected Text Block.md",
