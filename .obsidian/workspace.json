@@ -259,9 +259,19 @@
               "icon": "lucide-info",
               "title": "完型的笔记属性"
             }
+          },
+          {
+            "id": "3902046172719908",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -289,11 +299,11 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "47548ad38e730681",
+  "active": "3902046172719908",
   "lastOpenFiles": [
+    "试题分析/2009/完型.md",
     "生词本.md",
     "阅读模板.md",
-    "试题分析/2009/完型.md",
     "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/解析.md",
     "未命名.base",
     "试题分析/2009/导出页面自 2009年考研英语真题解析.pdf",
