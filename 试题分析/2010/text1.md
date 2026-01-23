@@ -158,8 +158,8 @@ What makes this slump different from the last, he says, is that there are still 
 
 ^352347
 
-定位：As the auctioneer called out bids, in New York one of the oldest banks on Wall Street, Lehman Brothers, filed for bankruptcy.
-在拍卖师喊出报价的同时，雷曼兄弟申请破产 $\rightarrow$ 经济危机爆发 $\rightarrow$拍卖会在经济危机爆发前成功举行
+**定位**：As the auctioneer called out bids, in New York one of the oldest banks on Wall Street, Lehman Brothers, filed for bankruptcy.
+**分析**：在拍卖师喊出报价的同时，雷曼兄弟申请破产 $\rightarrow$ 经济危机爆发 $\rightarrow$拍卖会在经济危机爆发前成功举行
 
 ### The world art market had already been losing momentum for a while after rising bewilderingly since 2003.
 
@@ -185,4 +185,10 @@ What makes this slump different from the last, he says, is that there are still 
 - “自 2003 年以来艺术品市场经历了令人费解的暴涨之后，它其实**早就已经**在**一段时间内**开始**失去增长势头**了。”
 
 这句的潜台词是：市场表面上涨得很猛，但内在动能早在危机爆发前就开始衰减，后面的崩塌有“早有征兆”的意味。
+
+### 22题解析
+**定位**：In the weeks and months that followed Mr. Hirst's sale, spending of any sort became deeply unfashionable. In the art world that meant collectors stayed away from galleries and salerooms. 
+**分析**：通过第三段第二句中的meant可知后面的内容是前面内容的总结，**meant collectors stayed away from galleries and salerooms.** 收藏家们不再关顾画廊和拍卖场，与A选项的意思一致
+对于B选项，stopped every kind of spending 过于绝对,且 stayed away from galleries 指“收藏家们不再光顾画廊(购买 画作)”而非“人们不再光顾画廊(参观展览等)”,选项偷梁换柱。
+对于C、D选项，消费变得不合时宜，是经济危机导致的，并不是对艺术收藏失去兴趣和艺术品的过时
 

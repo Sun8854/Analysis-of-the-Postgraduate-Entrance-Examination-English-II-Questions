@@ -151,7 +151,8 @@
               "title": "学习新单词"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "试题分析/主观题/Excalidraw/翻译.md",
+                "file": "试题分析/2010/text1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "翻译 的大纲"
+              "title": "text1 的大纲"
             }
           },
           {
@@ -260,7 +261,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -288,13 +289,13 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "3902046172719908",
+  "active": "0b1f6e0b211f7e15",
   "lastOpenFiles": [
-    "试题分析/2010/text1.md",
     "试题分析/2010/试题解析.md",
+    "试题分析/2010/text1.md",
+    "生词本.md",
     "阅读模板.md",
     "试题分析/2010/真题.md",
-    "生词本.md",
     "试题分析/2010",
     "试题分析/2009/完型.md",
     "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/解析.md",
