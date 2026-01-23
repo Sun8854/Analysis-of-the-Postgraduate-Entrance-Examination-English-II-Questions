@@ -18,33 +18,21 @@
             }
           },
           {
-            "id": "8fbe595336cf14c1",
+            "id": "0b1f6e0b211f7e15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生词本.md",
-                "mode": "preview",
+                "file": "试题分析/2010/text1.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "生词本"
-            }
-          },
-          {
-            "id": "0b1f6e0b211f7e15",
-            "type": "leaf",
-            "state": {
-              "type": "langr-reading",
-              "state": {
-                "file": "试题分析/2010/text1.md"
-              },
-              "icon": "highlight-glyph",
               "title": "text1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,8 +111,7 @@
               "title": "查词面板"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "574b2d1f66dbb8b2",
@@ -244,14 +231,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "试题分析/2009/完型.md"
+                "file": "试题分析/2010/text1.md"
               },
               "icon": "lucide-info",
-              "title": "完型的笔记属性"
+              "title": "text1的笔记属性"
             }
           },
           {
-            "id": "3902046172719908",
+            "id": "35a74518fe572648",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -261,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -289,11 +276,12 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "0b1f6e0b211f7e15",
+  "active": "35a74518fe572648",
   "lastOpenFiles": [
-    "试题分析/2010/试题解析.md",
-    "试题分析/2010/text1.md",
+    "单词复习.md",
     "生词本.md",
+    "试题分析/2010/text1.md",
+    "试题分析/2010/试题解析.md",
     "阅读模板.md",
     "试题分析/2010/真题.md",
     "试题分析/2010",
@@ -332,7 +320,6 @@
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "试题分析/主观题/未命名.md",
-    "单词复习.md",
     "text4.md",
     "未命名 1.md",
     "试题分析/2008/完型/完型.md",

@@ -34,9 +34,9 @@ The world art market had already been losing momentum for a while after rising b
 In the weeks and months that followed Mr. Hirst's sale, spending of any sort became deeply unfashionable. In the art world that meant collectors stayed away from galleries and salerooms. Sales of contemporary art fell by two-thirds, and in the most overheated sector, they were down by nearly 90\% in the year to November 2008. Within weeks the world's two biggest auction houses, Sotheby's and Christie's, had to pay out nearly \$200 m in guarantees to clients who had placed works for sale with them.
 赫斯特作品拍卖之后的一段时间内，任何种类的消费都变得极其不合时宜。在艺术品领域，这意味着收藏家不再光顾画廊和拍卖场。2008年当年截至11月，当代艺术品的销售额下降了2/3，而在其最热门的领域则下降了近  $90\%$  。几周之内，全球最大的两家拍卖行，苏富比和佳士得，不得不支付将近2亿美元的保证金给那些将艺术品交由它们售卖的客户。
 
-22. By saying "spending of any sort became deeply unfashionable" (Line 1-2, Para. 3), the author suggests that
+22. By saying "spending of any sort became deeply unfashionable" (Line 1-2, Para. 3), the author suggests that [解析](text1.md#^f3a1cc)
 
-22. 通过“任何种类的消费都变得极其不合时宜”(第三段,第一、二行)这句话,作者暗示_。
+22. 通过“任何种类的消费都变得极其不合时宜”(第三段, 第一、二行) 这句话, 作者暗示_。
 
 	[A] collectors were no longer actively involved in art-market auctions
 	[A] 收藏家们不再积极参与艺术品市场的拍卖
@@ -50,7 +50,7 @@ In the weeks and months that followed Mr. Hirst's sale, spending of any sort bec
 	[D] works of art in general had gone out of fashion so they were not worth buying
 	[D] 艺术品总体上已经过时,因此不值得购买
 
-23. Which of the following statements is NOT true?
+23. Which of the following statements is NOT true? [解析](#^6d5c52)
 
 23. 以下哪种说法不正确?
 
@@ -74,9 +74,9 @@ The current downturn in the art market is the worst since the Japanese stopped b
 What makes this slump different from the last, he says, is that there are still buyers in the market. Almost everyone who was interviewed for this special report said that the biggest problem at the moment is not a lack of demand but a lack of good work to sell. The three Ds—death, debt and divorce—still deliver works of art to the market. But anyone who does not have to sell is keeping away, waiting for confidence to return.
 他说，此次衰退不同于上次是因为现在市场上仍然有买家。几乎所有接受此次特别报道采访的人都说，当前最大的问题不是缺少需求，而是缺少好的售卖作品。三个D——死亡、债务和离婚——依然是将艺术品推向市场的三大因素。但那些不是非卖不可的人都在远离市场，等待市场信心的回归。
 
-24. The three Ds mentioned in the last paragraph are
+24. The three Ds mentioned in the last paragraph are [解析](#^5da9c2)
 
-24. 最后一段提到的三个D是_。
+24. 最后一段提到的三个 D 是_。
 
 	[A] auction houses' favorites
 	[A] 拍卖行的最爱
@@ -187,8 +187,34 @@ What makes this slump different from the last, he says, is that there are still 
 这句的潜台词是：市场表面上涨得很猛，但内在动能早在危机爆发前就开始衰减，后面的崩塌有“早有征兆”的意味。
 
 ### 22题解析
+
+^f3a1cc
+
 **定位**：In the weeks and months that followed Mr. Hirst's sale, spending of any sort became deeply unfashionable. In the art world that meant collectors stayed away from galleries and salerooms. 
 **分析**：通过第三段第二句中的meant可知后面的内容是前面内容的总结，**meant collectors stayed away from galleries and salerooms.** 收藏家们不再关顾画廊和拍卖场，与A选项的意思一致
 对于B选项，stopped every kind of spending 过于绝对,且 stayed away from galleries 指“收藏家们不再光顾画廊(购买 画作)”而非“人们不再光顾画廊(参观展览等)”,选项偷梁换柱。
 对于C、D选项，消费变得不合时宜，是经济危机导致的，并不是对艺术收藏失去兴趣和艺术品的过时
+
+### 23题解析
+
+^6d5c52
+
+A：
+**定位**： At its peak in 2007 it was worth some  $65 billion, reckons Clare McAndrew, founder of Arts Economics, a research firm—double the figure five years earlier. Since then it may have come down to $50 billion.
+**分析**：2007年是顶峰时期，之后开始下降
+B：
+**定位**：But the market generates interest far beyond its size because it brings together great wealth, enormous egos, greed, passion and controversy in a way matched by few other industries.
+**分析**：由此句可知，艺术品市场将巨额财富、自负、贪婪、激情和争议以一种其他行业无法比拟的方式汇集在了一起。并不是发展势头超过其他行业
+**关键词**：momentum 势头
+C：
+**定位**：Sales of contemporary art fell by two-thirds, and in the most overheated sector, they were down by nearly 90\% in the year to November 2008. 
+D：
+**定位**：But anyone who does not have to sell is keeping away, waiting for confidence to return.（最后一段）
+
+### 24题解析
+
+^5da9c2
+
+**定位**：The three Ds—death, debt and divorce—still deliver works of art to the market.
+**分析**：三个D——死亡、债务和离婚——依然是将艺术品推向市场的三大因素。此题的重点在于对句子的翻译，The three Ds $\rightarrow$ 三个D，deliver to the market $\rightarrow$ 推向市场
 
