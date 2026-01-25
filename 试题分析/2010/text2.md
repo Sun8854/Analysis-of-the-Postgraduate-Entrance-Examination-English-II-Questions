@@ -35,10 +35,13 @@ This episode crystallizes the irony that although American men tend to talk more
 
 The pattern was observed by political scientist Andrew Hacker in the late 1970 s. Sociologist Catherine Kohler Riessman reports in her new book Divorce Talk that most of the women she interviewed—but only a few of the men—gave lack of communication as the reason for their divorces. Given the current divorce rate of nearly 50 percent, that amounts to millions of cases in the United States every year—a virtual epidemic of failed conversation.
 政治学家安德鲁·海克在20世纪70年代末就观察到了这种模式。社会学家凯瑟琳·科勒·里斯曼在她的新书《离婚谈》中指出，她所采访的大多数女性会把离婚归咎于缺乏沟通，但只有少数几位男性如此认为。考虑到美国目前的离婚率已接近  $50\%$  ，这等同于每年有数百万起离婚——实质上就是一场沟通不良流行病。
+#### 28
 
-28. All of the following are true EXCEPT _.
+^5eeec9
 
-28. 下面与原文内容不符的一项是 _.
+28. All of the following are true EXCEPT _. [解析](#^172ec7)
+
+29. 下面与原文内容不符的一项是 _.
 
 	[A] men tend to talk more in public than women
 	[A] 男性在公共场合往往比女性更加健谈
@@ -55,10 +58,13 @@ The pattern was observed by political scientist Andrew Hacker in the late 1970 s
 
 In my own research, complaints from women about their husbands most often focused not on tangible inequities such as <mark class="hltr-g">having given up the chance for a career to accompany a husband to his</mark>,<mark class="hltr-g"></mark> or doing far more than their share of daily life-support work like cleaning, cooking and social arrangements. Instead, they focused on communication: “He doesn’t listen to me.” “He doesn’t talk to me.” I found, as Hacker observed years before, that most wives want their husbands to be, first and foremost, conversational partners, but few husbands share this expectation of their wives.
 根据我个人的研究，女性对丈夫的抱怨大多数时候并非集中于那些看得见摸得着的不平等，比如<mark class="hltr-g">为了陪伴丈夫发展事业而放弃了开启自己事业的机会</mark>，或者承担了绝大部分日常生活琐事，如打扫卫生、烧菜做饭、安排社交活动。相反，她们的抱怨集中在“交流”问题上，如“他不听我说话”或“他不和我说话”。就像海克多年前就观察到的一样，我发现多数妻子都希望丈夫首先是自己的交谈伙伴，但很少有丈夫对妻子抱有同样的期望。
+#### 26
 
-26. What is most wives' main expectation of their husbands?
+^3f9385
 
-26. 大多数妻子对丈夫最大的期待是什么?
+26. What is most wives' main expectation of their husbands? [解析](#^29316e)
+
+27. 大多数妻子对丈夫最大的期待是什么?
 
 	[A] Talking to them.
 	[A] 与她们交谈。
@@ -92,10 +98,13 @@ In short, the image that best represents the current crisis is the stereotypical
 	[D] Conversational patterns between man and wife are different.
 	[D] 夫妻双方的交流模式互不相同。
 
+#### 30
+
+^695dbc
 
 30. In the following part immediately after this text, the author will most probably focus on
-
-30. 作者最有可能在紧接下来的篇章中将重点放在_。
+[解析](#^d405f3)
+31. 作者最有可能在紧接下来的篇章中将重点放在_。
 
 	[A] a vivid account of the new book Divorce Talk
 	[A] 对《离婚谈》这本新书的生动描述
@@ -121,15 +130,20 @@ n. 突发，迸发
 + **crystallizes the irony** : 使讽刺具体化
 + **damage** : n. （有形的）损坏，损失；损害，伤害；损害赔偿金；费用，代价
 + **divorce** : 离婚
++ **expectation** : n. 期待，预期；期望，指望
 + **failed conversation** : 沟通不良
++ **foremost** : adj. 最前的，最重要的
 + **frequently** : adv. 经常地，频繁地
 + **gathering** : n. 聚集，聚会；搜集，采集
 + **gestured** : v．做手势，示意：用手势、面部表情或身体动作来表示意思或传达信息。
 + **havoc** : n. 灾难，混乱
++ **immediately** : adv. 立即，马上；紧接地，紧靠地；直接地
 + **influence** : 影响、有影响的人
 + **interviewed** : v. 面试；接见；会见（interview 的过去式）
 + **irony** : n. （出乎意料的）奇异可笑之处，具有讽刺意味的情况；反语，讽刺
 + **particularly** : adv. 非常，尤其；特别是；清楚地，明确地
++ **share of daily life-support work** : 分担日常生活保障工作
++ **stereotypical** : adj. 刻板印象的，类型化的，老套的
 + **suburban** : adj. 郊区的，城郊的；平淡乏味的，乡气的，平庸的
 + **talkative** : adj. 爱说话的，健谈的
 + **tangible** : adj. 明确的，真实的；可触摸的，可感知的
@@ -138,6 +152,7 @@ n. 突发，迸发
 + **virtual** : 几乎等同于 / 实质上就是
 虚拟的 / 非实体的
 + **while** : conj. 当……的时候；与……同时；而，然而（表示对比）；尽管，虽然；直到……为止
++ **wives** : n. 妻子（wife 的复数）
 
 ^^^notes
 ### 27题解析
@@ -148,6 +163,10 @@ n. 突发，迸发
 **分析**：短语所在句(第二段②句)指出:这种交流模式正在____婚姻。由其上文(第二段①句)可知“这种交流模式”指“男性在公共场合比女性话多,但在家中少言寡语”。其下文(第三段)则指出:大多数女人将离婚原因归结于缺少沟通,而极少男性如此认为;美国每年有数百万夫妻由于缺乏沟通而离婚。由此可推知,短语所在句指出这种模式正在危害婚姻。
 
 ### 28题解析
+
+^172ec7
+
+[跳转](#^5eeec9)
 #### A,D：
 **定位**：American men tend to talk more than women in public situations, they often talk less at home.
 **分析**：美国男性在公共场合往往比女性更加健谈，他们在家里却很少说话。
@@ -157,4 +176,20 @@ n. 突发，迸发
 #### C：
 **定位**：most of the women she interviewed—but only a few of the men—gave lack of communication as the reason for their divorces. 
 **分析**：大多数女性认为离婚的原因是沟通不畅$\rightarrow$女性看重夫妻间的沟通
+
+### 26题解析
+
+^29316e
+
+[跳转](#^3f9385)
+**定位**：Instead, they focused on communication: “He doesn’t listen to me.” “He doesn’t talk to me.” I found, as Hacker observed years before, that most wives want their husbands to be, first and foremost, conversational partners,
+**分析**：女性们抱怨交流问题，希望丈夫与他们多交流
+
+#### 30题解析
+
+^d405f3
+
+[跳转](#^695dbc)
+**定位**：In short, the image that best represents the current crisis is the stereotypical cartoon scene of a man sitting at the breakfast table with a newspaper held up in front of his face, while a woman glares at the back of it, wanting to talk.
+**分析**：最后一段介绍了一个漫画场景，根据篇章的一致性和连贯性原则,作者很可能会在后续的段落里围绕漫画特点展开详细描述。
 

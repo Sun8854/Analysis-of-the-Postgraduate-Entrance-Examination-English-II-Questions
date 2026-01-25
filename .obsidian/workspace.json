@@ -21,11 +21,13 @@
             "id": "0b1f6e0b211f7e15",
             "type": "leaf",
             "state": {
-              "type": "langr-reading",
+              "type": "markdown",
               "state": {
-                "file": "试题分析/2010/text2.md"
+                "file": "试题分析/2010/text2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "highlight-glyph",
+              "icon": "lucide-file",
               "title": "text2"
             }
           }
@@ -273,14 +275,14 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "0b1f6e0b211f7e15",
+  "active": "47548ad38e730681",
   "lastOpenFiles": [
-    "未命名.base",
-    "试题分析/2010/text2.md",
     "试题分析/2010/试题解析.md",
+    "试题分析/2010/text2.md",
+    "试题分析/2010/真题.md",
+    "未命名.base",
     "阅读模板.md",
     "试题分析/2010/text1.md",
-    "试题分析/2010/真题.md",
     "考研单词5500词/part1.md",
     "单词复习.md",
     "生词本.md",
