@@ -21,13 +21,11 @@
             "id": "0b1f6e0b211f7e15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "langr-reading",
               "state": {
-                "file": "试题分析/2010/text2.md",
-                "mode": "source",
-                "source": false
+                "file": "试题分析/2010/text2.md"
               },
-              "icon": "lucide-file",
+              "icon": "highlight-glyph",
               "title": "text2"
             }
           }
@@ -275,7 +273,7 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "47548ad38e730681",
+  "active": "0b1f6e0b211f7e15",
   "lastOpenFiles": [
     "未命名.base",
     "试题分析/2010/text2.md",
