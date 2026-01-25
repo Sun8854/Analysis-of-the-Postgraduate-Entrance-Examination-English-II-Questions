@@ -12,8 +12,11 @@ I was addressing a small gathering in a suburban Virginia living room—a women'
 
 This episode crystallizes the irony that although American men tend to talk more than women in public situations, they often talk less at home. And this pattern is wreaking havoc with marriage.
 这段插曲反映出一个具有讽刺意味的现象：尽管美国男性在公共场合往往比女性更加健谈，他们在家里却很少说话。而这种交流模式正在严重破坏婚姻。
+#### 27
 
-27. Judging from the context, the phrase “wreaking havoc” (Line 3, Para. 2) most probably means ________.
+^a4f0f1
+
+27. Judging from the context, the phrase “wreaking havoc” (Line 3, Para. 2) most probably means . [解析](text2.md#^3bfb94)
 
 28. 从上下文判断,词组 wreaking havoc(第二段第三行)最可能的含义是___。
 
@@ -35,7 +38,7 @@ The pattern was observed by political scientist Andrew Hacker in the late 1970 s
 
 28. All of the following are true EXCEPT _.
 
-29. 下面与原文内容不符的一项是 _.
+28. 下面与原文内容不符的一项是 _.
 
 	[A] men tend to talk more in public than women
 	[A] 男性在公共场合往往比女性更加健谈
@@ -55,7 +58,7 @@ In my own research, complaints from women about their husbands most often focuse
 
 26. What is most wives' main expectation of their husbands?
 
-27. 大多数妻子对丈夫最大的期待是什么?
+26. 大多数妻子对丈夫最大的期待是什么?
 
 	[A] Talking to them.
 	[A] 与她们交谈。
@@ -75,7 +78,7 @@ In short, the image that best represents the current crisis is the stereotypical
 
 29. Which of the following can best summarize the main idea of this text?
 
-30. 下列哪一项是对本文主旨的最佳概括?
+29. 下列哪一项是对本文主旨的最佳概括?
 
 	[A] The moral decaying deserves more research by sociologists.
 	[A] 道德败坏现象值得社会学家进一步研究。
@@ -92,7 +95,7 @@ In short, the image that best represents the current crisis is the stereotypical
 
 30. In the following part immediately after this text, the author will most probably focus on
 
-31. 作者最有可能在紧接下来的篇章中将重点放在_。
+30. 作者最有可能在紧接下来的篇章中将重点放在_。
 
 	[A] a vivid account of the new book Divorce Talk
 	[A] 对《离婚谈》这本新书的生动描述
@@ -108,6 +111,48 @@ In short, the image that best represents the current crisis is the stereotypical
 
 
 ^^^words
-
++ **account** : 叙述、账户、报道
++ **agreement** : n. 协议，协定，契约；共识；应允，同意；（在数、性或人称方面的）一致
++ **amounts to** : 等同于
++ **burst** : v. 爆炸，爆裂，胀
+n. 突发，迸发
++ **crystallizes** : v. （使）结晶；（使）明确化，（使）具体化；给（水果或花瓣）裹上糖霜；（财政）将浮动费用改为固定费用
++ **crystallizes the irony** : 使讽刺具体化
++ **damage** : n. （有形的）损坏，损失；损害，伤害；损害赔偿金；费用，代价
++ **divorce** : 离婚
++ **failed conversation** : 沟通不良
++ **frequently** : adv. 经常地，频繁地
++ **gathering** : n. 聚集，聚会；搜集，采集
++ **gestured** : v．做手势，示意：用手势、面部表情或身体动作来表示意思或传达信息。
++ **havoc** : n. 灾难，混乱
++ **influence** : 影响、有影响的人
++ **interviewed** : v. 面试；接见；会见（interview 的过去式）
++ **irony** : n. （出乎意料的）奇异可笑之处，具有讽刺意味的情况；反语，讽刺
++ **particularly** : adv. 非常，尤其；特别是；清楚地，明确地
++ **suburban** : adj. 郊区的，城郊的；平淡乏味的，乡气的，平庸的
++ **talkative** : adj. 爱说话的，健谈的
++ **throughout** : prep. 遍及，到处；自始至终，贯穿整个时期
++ **throughout the evening** : 整个晚上
++ **virtual** : 几乎等同于 / 实质上就是
+虚拟的 / 非实体的
++ **while** : conj. 当……的时候；与……同时；而，然而（表示对比）；尽管，虽然；直到……为止
 
 ^^^notes
+### 27题解析
+[跳转](#^a4f0f1)
+^3bfb94
+
+**定位**：gave lack of communication as the reason for their divorces. Given the current divorce rate of nearly 50 percent, that amounts to millions of cases in the United States every year—a virtual epidemic of failed conversation.
+**分析**：短语所在句(第二段②句)指出:这种交流模式正在____婚姻。由其上文(第二段①句)可知“这种交流模式”指“男性在公共场合比女性话多,但在家中少言寡语”。其下文(第三段)则指出:大多数女人将离婚原因归结于缺少沟通,而极少男性如此认为;美国每年有数百万夫妻由于缺乏沟通而离婚。由此可推知,短语所在句指出这种模式正在危害婚姻。
+
+### 28题解析
+#### A,D：
+**定位**：American men tend to talk more than women in public situations, they often talk less at home.
+**分析**：美国男性在公共场合往往比女性更加健谈，他们在家里却很少说话。
+#### B：
+**定位**：Given the current divorce rate of nearly 50 percent, that amounts to millions of cases in the United States every year—a virtual epidemic of failed conversation.
+**分析**：文中写道，美国目前的离婚率为50%，沟通不畅是其重要的原因，并没有提及因沟通不畅导致离婚的数量。$\frac{离婚}{总数}=0.5$ **并不是** $\frac{因沟通不畅离婚}{离婚}=0.5$
+#### C：
+**定位**：most of the women she interviewed—but only a few of the men—gave lack of communication as the reason for their divorces. 
+**分析**：大多数女性认为离婚的原因是沟通不畅$\rightarrow$女性看重夫妻间的沟通
+
