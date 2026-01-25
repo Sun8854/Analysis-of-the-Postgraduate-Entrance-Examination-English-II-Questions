@@ -2346,3 +2346,4 @@ PERFORMANCE OF THIS SOFTWARE.
  * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
  */
 ;(()=>{try{if(typeof Hb!=="function")return;var e=Hb;Hb=function(t){return e(t).then(function(r){try{var n="";r&&r.result&&r.result.basic&&(n=Jb0(r.result.basic));!n&&r&&r.result&&r.result.title&&(n=Jb0(r.result.translation));n&&Kb0(n)}catch(o){}return r})}}catch(t){}})();
+;(()=>{try{if(typeof rR!=="function"||rR.prototype._llSanitize)return;var e=rR.prototype.parse;rR.prototype.parse=function(t){var r=t==null?"":String(t);r=r.replace(/<\/?[a-z][^>]*>/gi,"");return e.call(this,r)};rR.prototype._llSanitize=!0}catch(t){}})();
