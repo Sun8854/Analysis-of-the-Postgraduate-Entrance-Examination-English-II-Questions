@@ -21,11 +21,13 @@
             "id": "0b1f6e0b211f7e15",
             "type": "leaf",
             "state": {
-              "type": "langr-reading",
+              "type": "markdown",
               "state": {
-                "file": "试题分析/2010/text2.md"
+                "file": "试题分析/2010/text2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "highlight-glyph",
+              "icon": "lucide-file",
               "title": "text2"
             }
           }
@@ -137,7 +139,8 @@
               "title": "学习新单词"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -274,7 +277,7 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "47548ad38e730681",
+  "active": "0b1f6e0b211f7e15",
   "lastOpenFiles": [
     "试题分析/2010/试题解析.md",
     "试题分析/2010/text2.md",

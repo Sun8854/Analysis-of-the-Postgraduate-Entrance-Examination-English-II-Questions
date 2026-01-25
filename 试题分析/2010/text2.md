@@ -53,7 +53,7 @@ The pattern was observed by political scientist Andrew Hacker in the late 1970 s
 	[D] 女性在家中往往比其配偶更加健谈
 
 
-In my own research, complaints from women about their husbands most often focused not on tangible inequities such as having given up the chance for a career to accompany a husband to his, or doing far more than their share of daily life-support work like cleaning, cooking and social arrangements. Instead, they focused on communication: “He doesn’t listen to me.” “He doesn’t talk to me.” I found, as Hacker observed years before, that most wives want their husbands to be, first and foremost, conversational partners, but few husbands share this expectation of their wives.
+In my own research, complaints from women about their husbands most often focused not on tangible inequities such as <mark class="hltr-g">having given up the chance for a career to accompany a husband to his</mark>,<mark class="hltr-g"></mark> or doing far more than their share of daily life-support work like cleaning, cooking and social arrangements. Instead, they focused on communication: “He doesn’t listen to me.” “He doesn’t talk to me.” I found, as Hacker observed years before, that most wives want their husbands to be, first and foremost, conversational partners, but few husbands share this expectation of their wives.
 根据我个人的研究，女性对丈夫的抱怨大多数时候并非集中于那些看得见摸得着的不平等，比如为了陪伴丈夫发展事业而放弃了开启自己事业的机会，或者承担了绝大部分日常生活琐事，如打扫卫生、烧菜做饭、安排社交活动。相反，她们的抱怨集中在“交流”问题上，如“他不听我说话”或“他不和我说话”。就像海克多年前就观察到的一样，我发现多数妻子都希望丈夫首先是自己的交谈伙伴，但很少有丈夫对妻子抱有同样的期望。
 
 26. What is most wives' main expectation of their husbands?
@@ -114,6 +114,7 @@ In short, the image that best represents the current crisis is the stereotypical
 + **account** : 叙述、账户、报道
 + **agreement** : n. 协议，协定，契约；共识；应允，同意；（在数、性或人称方面的）一致
 + **amounts to** : 等同于
++ **attach much importance** : 非常重视：认为某事物非常重要，给予高度重视。
 + **burst** : v. 爆炸，爆裂，胀
 n. 突发，迸发
 + **crystallizes** : v. （使）结晶；（使）明确化，（使）具体化；给（水果或花瓣）裹上糖霜；（财政）将浮动费用改为固定费用
@@ -131,6 +132,7 @@ n. 突发，迸发
 + **particularly** : adv. 非常，尤其；特别是；清楚地，明确地
 + **suburban** : adj. 郊区的，城郊的；平淡乏味的，乡气的，平庸的
 + **talkative** : adj. 爱说话的，健谈的
++ **tangible** : adj. 明确的，真实的；可触摸的，可感知的
 + **throughout** : prep. 遍及，到处；自始至终，贯穿整个时期
 + **throughout the evening** : 整个晚上
 + **virtual** : 几乎等同于 / 实质上就是
