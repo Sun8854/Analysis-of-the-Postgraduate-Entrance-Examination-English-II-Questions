@@ -234,9 +234,19 @@
               "icon": "lucide-info",
               "title": "text2的笔记属性"
             }
+          },
+          {
+            "id": "8072b2f623b0d373",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -264,7 +274,7 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "47548ad38e730681",
+  "active": "8072b2f623b0d373",
   "lastOpenFiles": [
     "试题分析/2010/试题解析.md",
     "试题分析/2010/text2.md",
