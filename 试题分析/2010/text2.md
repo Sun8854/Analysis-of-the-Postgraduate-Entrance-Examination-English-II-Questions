@@ -54,7 +54,7 @@ The pattern was observed by political scientist Andrew Hacker in the late 1970 s
 
 
 In my own research, complaints from women about their husbands most often focused not on tangible inequities such as <mark class="hltr-g">having given up the chance for a career to accompany a husband to his</mark>,<mark class="hltr-g"></mark> or doing far more than their share of daily life-support work like cleaning, cooking and social arrangements. Instead, they focused on communication: “He doesn’t listen to me.” “He doesn’t talk to me.” I found, as Hacker observed years before, that most wives want their husbands to be, first and foremost, conversational partners, but few husbands share this expectation of their wives.
-根据我个人的研究，女性对丈夫的抱怨大多数时候并非集中于那些看得见摸得着的不平等，比如为了陪伴丈夫发展事业而放弃了开启自己事业的机会，或者承担了绝大部分日常生活琐事，如打扫卫生、烧菜做饭、安排社交活动。相反，她们的抱怨集中在“交流”问题上，如“他不听我说话”或“他不和我说话”。就像海克多年前就观察到的一样，我发现多数妻子都希望丈夫首先是自己的交谈伙伴，但很少有丈夫对妻子抱有同样的期望。
+根据我个人的研究，女性对丈夫的抱怨大多数时候并非集中于那些看得见摸得着的不平等，比如<mark class="hltr-g">为了陪伴丈夫发展事业而放弃了开启自己事业的机会</mark>，或者承担了绝大部分日常生活琐事，如打扫卫生、烧菜做饭、安排社交活动。相反，她们的抱怨集中在“交流”问题上，如“他不听我说话”或“他不和我说话”。就像海克多年前就观察到的一样，我发现多数妻子都希望丈夫首先是自己的交谈伙伴，但很少有丈夫对妻子抱有同样的期望。
 
 26. What is most wives' main expectation of their husbands?
 
