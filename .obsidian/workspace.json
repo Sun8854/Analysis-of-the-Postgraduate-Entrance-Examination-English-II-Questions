@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "试题分析/2010/text2.md",
+                "file": "单词复习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "text2"
+              "title": "单词复习"
             }
           }
         ],
@@ -138,8 +138,7 @@
               "title": "学习新单词"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -276,17 +275,17 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "8be5810b1a2240b5",
+  "active": "47548ad38e730681",
   "lastOpenFiles": [
-    "试题分析/2010/试题解析.md",
+    "生词本.md",
     "试题分析/2010/text2.md",
+    "试题分析/2010/试题解析.md",
     "试题分析/2010/真题.md",
     "未命名.base",
     "阅读模板.md",
     "试题分析/2010/text1.md",
     "考研单词5500词/part1.md",
     "单词复习.md",
-    "生词本.md",
     "试题分析/2010",
     "试题分析/2009/完型.md",
     "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/解析.md",
