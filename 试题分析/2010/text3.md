@@ -115,6 +115,7 @@ Through experiments and observation, social scientists like Dr. Berning have lea
 + **effect** : n. 作用，影响；（刻意制造的）效果，印象；所有物，财产；生效，实行
 + **industry** : n. 工业，生产制造；行业，产业；勤奋，勤劳；范围，领域
 + **influence** : 影响、有影响的人
++ **private concerns** : 私人事务
 + **production** : n. （以销售为目的的）生产，制造；（对自然物的）加工，采集，生产；产量；（自然的）产生；（交通工具的）大量生产；（戏剧、电影、电视节目、唱片等的）制作；（戏剧、电影等的）上映，上演；（尤指从制作与公演等特点来看）影片，戏剧；音响效果，制作方式；<正式>出示，提供；<非正式>非常费力的事，非常复杂的事
 + **remain** : v. 逗留，留下；剩余，遗留；保持不变，一直是；仍需去做（或处理）
 n. 剩余（物），遗迹；遗体，残骸
@@ -139,4 +140,9 @@ n. 剩余（物），遗迹；遗体，残骸
   - “perfected the art”带有一点“佩服其手段高明”的客观描述，但也隐含批判：这些习惯并非自然形成，而是公司**刻意设计、诱导**出来的（后文会说 cues 暗示）。
 - **更顺的中文意译**
   - “很多公司已经把‘让消费者形成不假思索的习惯性行为’这套方法研究得非常成熟了。”
+
+### 31题解析
+**定位**："There are fundamental public health problems, like dirty hands instead of a soap habit, that remain killers only because we can't figure out how to change people's habits,"
+**分析**：博士认为要**改变**人们**不**使用肥皂洗手这一个习惯，**培养**人们使用肥皂洗手的习惯。
+**B**选项错在不是改变人们使用肥皂洗手的习惯
 
