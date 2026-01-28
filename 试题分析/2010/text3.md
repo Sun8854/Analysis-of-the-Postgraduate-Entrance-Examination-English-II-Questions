@@ -53,8 +53,8 @@ A few decades ago, many people didn't drink water outside of a meal. Then bevera
 	[D] manifest the significant role of good habits
 	[D] 显示良好习惯的重要作用
 
-"Our products succeed when they become part of daily or weekly patterns," said Carol Berning, a consumer psychologist who recently retired from Procter & Gamble, the company that sold $76 billion of Tide, Crest and other products last year. "Creating positive habits is a huge part of improving our consumers' lives, and it's essential to making new products commercially viable."
-“当成为消费者每天或每周生活惯例的组成部分时，我们的产品就成功了。”最近从宝洁退休的消费心理学家卡罗尔·伯宁说道（去年，宝洁公司在汰渍、佳洁士和其他产品上的销售额高达760亿美元）。“塑造良好习惯在改善消费者生活方面发挥着非常重大的作用，它对于实现新产品的商业可行性也至关重要。”
+"Our products succeed when they become part of daily or weekly patterns," said Carol Berning, a consumer psychologist who recently retired from Procter & Gamble, the company that sold $76 billion of Tide, Crest and other products last year. "<mark class="hltr-g">Creating positive habits is a huge part of improving our consumers' lives</mark>, and it's essential to making new products commercially viable."
+“当成为消费者每天或每周生活惯例的组成部分时，我们的产品就成功了。”最近从宝洁退休的消费心理学家卡罗尔·伯宁说道（去年，宝洁公司在汰渍、佳洁士和其他产品上的销售额高达760亿美元）。“<mark class="hltr-g">塑造良好习惯在改善消费者生活方面发挥着非常重大的作用</mark>，它对于实现新产品的商业可行性也至关重要。”
 
 33. Which of the following does NOT belong to products that help create people's habits?
 
@@ -116,8 +116,11 @@ adj. 青春期的；不成熟的
 + **beverage** : n. 饮料
 + **brushed** : n. 刷子，画笔
 v. 刷，拂拭；刷掉
++ **commercially** : adv. 商业上，从商业角度看；可买到地，商店有售地；商业化地，大量生产（使用）地
 + **deeply** : adv. 很，非常；深刻地，深沉地；至深处
 + **effect** : n. 作用，影响；（刻意制造的）效果，印象；所有物，财产；生效，实行
++ **essential** : adj. 必不可少的，非常重要的；基本的，精髓的；（氨基酸、脂肪酸）必需的；（疾病）自发的，原发的
+n. 必不可少的东西，必需品；要素，本质；（某学科的）基础，基本知识
 + **far-off** : adj. 遥远的
 + **industry** : n. 工业，生产制造；行业，产业；勤奋，勤劳；范围，领域
 + **influence** : 影响、有影响的人
@@ -126,14 +129,18 @@ v. 刷，拂拭；刷掉
 + **private concerns** : 私人事务
 + **production** : n. （以销售为目的的）生产，制造；（对自然物的）加工，采集，生产；产量；（自然的）产生；（交通工具的）大量生产；（戏剧、电影、电视节目、唱片等的）制作；（戏剧、电影等的）上映，上演；（尤指从制作与公演等特点来看）影片，戏剧；音响效果，制作方式；<正式>出示，提供；<非正式>非常费力的事，非常复杂的事
 + **putting on makeup** : 化妆
++ **recently** : adv. 最近，不久前
 + **remain** : v. 逗留，留下；剩余，遗留；保持不变，一直是；仍需去做（或处理）
 n. 剩余（物），遗迹；遗体，残骸
 + **response** : n. 反应，响应；（口头或书面的）回复，答复；（考试题的）答案；（教堂中人们对牧师所说的话作出的）唱和，应答
++ **retired** : adj. 退休的，退役的；（生活方式）隐居的，退隐的；（人）沉默寡言的，不好交际的；<古>（地方）僻静的，隐蔽的
+v. 退休，退役；（因伤）退赛；撤退（retire 的过去式和过去分词形式）
 + **scrub** : 用力摩擦，来回蹭，洗刷，灌木丛
 + **shrewd** : adj. （人）精明的，机敏的；（决定和判断）精明的，准确的；（打击）沉重的，尖锐的；邪恶的，恶意的；<古>（尤指天气）寒冷刺骨的，凛冽的
 + **slipped in** : 悄悄加入
 + **turned to** : 求助于，转向，致力于，开始做某事，投入某项工作
 + **unthinkingly** : adv. 不假思索地；轻率地
++ **viable** : adj. 可望成功的，切实可行的；能存活的，能生长发育的
 + **wipe** : 擦干净，抹掉，抹布，纸巾
 
 ^^^notes

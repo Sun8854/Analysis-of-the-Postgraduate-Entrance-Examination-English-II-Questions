@@ -56,7 +56,7 @@
       {
         "id": "adaff04e72f5cf78",
         "type": "tabs",
-        "dimension": 54.70171890798786,
+        "dimension": 63.902932254802835,
         "children": [
           {
             "id": "ee91808e011d588a",
@@ -129,7 +129,7 @@
       {
         "id": "574b2d1f66dbb8b2",
         "type": "tabs",
-        "dimension": 45.29828109201213,
+        "dimension": 36.09706774519717,
         "children": [
           {
             "id": "47548ad38e730681",
@@ -140,19 +140,8 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "8be5810b1a2240b5",
-            "type": "leaf",
-            "state": {
-              "type": "langr-learn-panel",
-              "state": {},
-              "icon": "reading-glasses",
-              "title": "学习新单词"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -259,9 +248,19 @@
               "icon": "SpacedRepIcon",
               "title": "笔记复习序列"
             }
+          },
+          {
+            "id": "8be5810b1a2240b5",
+            "type": "leaf",
+            "state": {
+              "type": "langr-learn-panel",
+              "state": {},
+              "icon": "reading-glasses",
+              "title": "学习新单词"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -289,13 +288,13 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "8be5810b1a2240b5",
+  "active": "0b1f6e0b211f7e15",
   "lastOpenFiles": [
+    "试题分析/2010/试题解析.md",
+    "试题分析/2010/text3.md",
     "单词复习.md",
     "试题分析/2010/真题.md",
     "生词本.md",
-    "试题分析/2010/试题解析.md",
-    "试题分析/2010/text3.md",
     "The companies that Dr. Curtis turned to.md",
     "Companies.md",
     "If you look hard enough,.md",
