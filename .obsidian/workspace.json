@@ -151,7 +151,8 @@
               "title": "学习新单词"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -288,7 +289,7 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "0b1f6e0b211f7e15",
+  "active": "8be5810b1a2240b5",
   "lastOpenFiles": [
     "单词复习.md",
     "试题分析/2010/真题.md",
