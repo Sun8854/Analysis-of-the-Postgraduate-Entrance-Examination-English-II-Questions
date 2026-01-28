@@ -31,7 +31,7 @@ Over the past decade, [many companies had perfected the art of creating automati
 The companies that Dr. Curtis turned to—Procter & Gamble, Colgate-Palmolive and Unilever—had invested hundreds of millions of dollars finding the subtle cues in consumers' lives that corporations could use to introduce new routines.
 柯蒂斯博士求助的公司有宝洁、高露洁棕榄和联合利华，这些公司已经投资了数亿美元，用以发掘消费者生活中能用于引入新惯例的微妙提示。
 
- [If you look hard enough](#^e49b4c), you'll find that many of the products we use every day—chewing gums, skin moisturizers, disinfecting wipes, air fresheners, water purifiers, health snacks, teeth whiteners, fabric softeners, vitamins—are results of manufactured habits. A century ago, few people regularly brushed their teeth multiple times a day. Today, because of shrewd advertising and public health campaigns, many Americans habitually give their pearly whites a cavity-preventing scrub twice a day, often with Colgate, Crest or one of the other brands.
+ [If you look hard enough](#^e49b4c), you'll find that many of the products we use every day—chewing gums, skin moisturizers, disinfecting wipes, air fresheners, water purifiers, health snacks, teeth whiteners, fabric softeners, vitamins—are results of manufactured habits. A century ago, few people regularly brushed their teeth multiple times a day. Today, because of shrewd advertising and public health campaigns, [many Americans habitually give their pearly whites a cavity-preventing scrub twice a day, often with Colgate, Crest or one of the other brands. ](#^9767e1)
 如果观察得足够仔细，你会发现我们每天都在使用的许多产品——口香糖、润肤霜、消毒湿巾、空气清新剂、净水器、健康零食、牙齿美白剂、衣物柔顺剂、维生素等——都是“公司塑造消费者习惯”的成果。一个世纪以前，很少有人每天有规律地刷牙多次。而现在，受高明的广告宣传活动和公共卫生运动的影响，许多美国人往往会使用高露洁、佳洁士或某种其他品牌（的牙膏），每天习惯性地刷洗他们那如珍珠般洁白的牙齿两次，以预防龋齿。
 
 A few decades ago, many people didn't drink water outside of a meal. Then beverage companies started bottling the production of far-off springs, and now office workers unthinkingly sip bottled water all day long. Chewing gum, once bought primarily by adolescent boys, is now featured in commercials as a breath freshener and teeth cleanser for use after a meal. Skin moisturizers are advertised as part of morning beauty rituals, slipped in between hair brushing and putting on makeup.
@@ -109,6 +109,8 @@ Through experiments and observation, social scientists like Dr. Berning have lea
 
 ^^^words
 + **according to** : 根据
++ **adolescent** : n. 青少年
+adj. 青春期的；不成熟的
 + **automatic** : adj. 自动的；必然的；无意识的，不假思索的
 + **automatic behaviors** : 不怎么思考就会做出来的行为
 + **beverage** : n. 饮料
@@ -120,6 +122,7 @@ v. 刷，拂拭；刷掉
 + **industry** : n. 工业，生产制造；行业，产业；勤奋，勤劳；范围，领域
 + **influence** : 影响、有影响的人
 + **pearly whites** : 珍珠般洁白的牙齿
++ **primarily** : adv. 主要地，首要地，根本地
 + **private concerns** : 私人事务
 + **production** : n. （以销售为目的的）生产，制造；（对自然物的）加工，采集，生产；产量；（自然的）产生；（交通工具的）大量生产；（戏剧、电影、电视节目、唱片等的）制作；（戏剧、电影等的）上映，上演；（尤指从制作与公演等特点来看）影片，戏剧；音响效果，制作方式；<正式>出示，提供；<非正式>非常费力的事，非常复杂的事
 + **remain** : v. 逗留，留下；剩余，遗留；保持不变，一直是；仍需去做（或处理）
@@ -128,6 +131,7 @@ n. 剩余（物），遗迹；遗体，残骸
 + **scrub** : 用力摩擦，来回蹭，洗刷，灌木丛
 + **shrewd** : adj. （人）精明的，机敏的；（决定和判断）精明的，准确的；（打击）沉重的，尖锐的；邪恶的，恶意的；<古>（尤指天气）寒冷刺骨的，凛冽的
 + **turned to** : 求助于，转向，致力于，开始做某事，投入某项工作
++ **unthinkingly** : adv. 不假思索地；轻率地
 + **wipe** : 擦干净，抹掉，抹布，纸巾
 
 ^^^notes
@@ -185,4 +189,37 @@ enough 修饰 hard，表示“到足够的程度”。
 If you look closely, …
 If you pay attention, …
 If you dig deep enough, …
+
+###  many Americans habitually give their pearly whites a cavity-preventing scrub twice a day, often with Colgate, Crest or one of the other brands.
+
+^9767e1
+
+句子主干
+
+many Americans（主语：许多美国人）
+habitually give ... a scrub（谓语：习惯性地“给……来一次刷洗”）
+其余都是修饰信息：刷什么、怎么刷、一天几次、用什么牌子。
+核心搭配：give … a scrub
+
+give + 宾语 + a + 动作名词：一种很地道的口语/书面表达，表示“给……来一下/做一次……”
+give the floor a wash：把地板洗一下
+give the car a clean：把车清理一下
+所以 give their pearly whites a scrub = 把牙齿刷一刷 / 刷洗牙齿（带一点生动、画面感）。
+pearly whites 是什么
+
+pearly = 珍珠般的、洁白发亮的
+whites 这里指“牙齿”（俚语/委婉说法）
+their pearly whites = 他们那口亮白的牙/一口白牙（偏形象化表达，不是正式医学用语）。
+cavity-preventing 的作用
+
+复合形容词 cavity-preventing 修饰 scrub
+cavity = 龋齿/蛀牙
+cavity-preventing scrub = 预防蛀牙的刷洗（方式/过程），暗含“用牙膏刷牙以防蛀”的目的。
+twice a day / often with …
+
+twice a day：一天两次（频率状语）
+often with Colgate, Crest or one of the other brands：常常用高露洁、佳洁士或其他品牌（补充说明刷牙时用的品牌；也在呼应上文“广告+习惯”）。
+更顺的中文意译（贴合语境）
+
+“如今，受精明广告和公共健康宣传的影响，许多美国人习惯性地每天刷牙两次以预防蛀牙，而且常用高露洁、佳洁士或其他品牌的产品。”
 
