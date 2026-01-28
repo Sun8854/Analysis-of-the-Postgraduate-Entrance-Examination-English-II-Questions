@@ -37,9 +37,9 @@ The companies that Dr. Curtis turned to—Procter & Gamble, Colgate-Palmolive an
 A few decades ago, many people didn't drink water outside of a meal. Then beverage companies started bottling the production of far-off springs, and now office workers unthinkingly sip bottled water all day long. Chewing gum, once bought primarily by adolescent boys, is now featured in commercials as a breath freshener and teeth cleanser for use after a meal. Skin moisturizers are advertised as part of morning beauty rituals, slipped in between hair brushing and putting on makeup.
 几十年前，许多人不会在非就餐时间喝水。后来，饮料公司开始将偏远的泉水采集装瓶（售卖），而现在，办公室职员们整天都在不假思索地喝着瓶装水。曾经主要是青春期男孩儿购买的口香糖，现在在商业广告中被定位为饭后使用的口气清新剂和牙齿清洁剂。润肤霜被广告宣传成晨间美容程序的一部分，被悄然插入梳头和化妆之间。
 
-32. Bottled water, chewing gum and skin moisturizers are mentioned in Paragraph 5 so as to
-
-32. 第五段提到瓶装水、口香糖和润肤霜的意图是_。
+32. [Bottled water, chewing gum and skin moisturizers are mentioned in Paragraph 5 so as to](#^032465)
+ ^e2f5ad
+33. 第五段提到瓶装水、口香糖和润肤霜的意图是_。
 
 	[A] reveal their impact on people's habits
 	[A] 揭示它们对人们习惯产生的影响
@@ -125,11 +125,13 @@ v. 刷，拂拭；刷掉
 + **primarily** : adv. 主要地，首要地，根本地
 + **private concerns** : 私人事务
 + **production** : n. （以销售为目的的）生产，制造；（对自然物的）加工，采集，生产；产量；（自然的）产生；（交通工具的）大量生产；（戏剧、电影、电视节目、唱片等的）制作；（戏剧、电影等的）上映，上演；（尤指从制作与公演等特点来看）影片，戏剧；音响效果，制作方式；<正式>出示，提供；<非正式>非常费力的事，非常复杂的事
++ **putting on makeup** : 化妆
 + **remain** : v. 逗留，留下；剩余，遗留；保持不变，一直是；仍需去做（或处理）
 n. 剩余（物），遗迹；遗体，残骸
 + **response** : n. 反应，响应；（口头或书面的）回复，答复；（考试题的）答案；（教堂中人们对牧师所说的话作出的）唱和，应答
 + **scrub** : 用力摩擦，来回蹭，洗刷，灌木丛
 + **shrewd** : adj. （人）精明的，机敏的；（决定和判断）精明的，准确的；（打击）沉重的，尖锐的；邪恶的，恶意的；<古>（尤指天气）寒冷刺骨的，凛冽的
++ **slipped in** : 悄悄加入
 + **turned to** : 求助于，转向，致力于，开始做某事，投入某项工作
 + **unthinkingly** : adv. 不假思索地；轻率地
 + **wipe** : 擦干净，抹掉，抹布，纸巾
@@ -222,4 +224,12 @@ often with Colgate, Crest or one of the other brands：常常用高露洁、佳�
 更顺的中文意译（贴合语境）
 
 “如今，受精明广告和公共健康宣传的影响，许多美国人习惯性地每天刷牙两次以预防蛀牙，而且常用高露洁、佳洁士或其他品牌的产品。”
+
+### 32题解析
+[跳转](#^e2f5ad)
+^032465
+
+**定位**：第五段
+**分析**：瓶装水**改变**了许多人不会在非就餐时间喝水的习惯，口香糖的定位被**改**为饭后的口气清新剂和牙齿清洁剂，润肤霜**成为**晨间美容程序的一部分。这些商品本身或其商业宣传对人们的习惯产生了影响。
+**错误选项**：**B**这些商品是影响人们的生活习惯，并不能体现迫切需求；**C**：第五段没有提及购买力，且内容与购买力无关；**D**：第五段的这些产品改变了人们的习惯，与习惯的作用无关，且文章中并没有提及这些都是良好习惯。
 
