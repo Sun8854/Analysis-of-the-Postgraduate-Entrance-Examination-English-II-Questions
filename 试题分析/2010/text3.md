@@ -12,7 +12,7 @@ Over the past decade, [many companies had perfected the art of creating automati
 "There are fundamental public health problems, like dirty hands instead of a soap habit, that remain killers only because we can't figure out how to change people's habits," said Dr. Curtis, the director of the Hygiene Center at the London School of Hygiene & Tropical Medicine. "We wanted to learn from private industry how to create new behaviors that happen automatically."
 “一些基本的公共卫生问题（比如说手脏了却没有用肥皂洗手的习惯）仍在继续夺取人们的生命，只因为我们琢磨不透如何去改变人们的习惯。”伦敦卫生与热带医学院的卫生中心主任柯蒂斯博士称，“我们想要向私营部门学习如何塑造新的自动行为。”
 
-31. According to Dr. Curtis, habits like hand washing with soap
+31. [According to Dr. Curtis, habits like hand washing with soap](#^6d77d4)
 
 31. 柯蒂斯博士认为，诸如用肥皂洗手的这类习惯_。
 
@@ -26,12 +26,12 @@ Over the past decade, [many companies had perfected the art of creating automati
 	[C] 有很深的历史渊源
 
 	[D] are basically private concerns
-	[D] 从根本上讲是私人问题
+	[D] 从根本上讲是私人问题 ^fe78c3
 
 The companies that Dr. Curtis turned to—Procter & Gamble, Colgate-Palmolive and Unilever—had invested hundreds of millions of dollars finding the subtle cues in consumers' lives that corporations could use to introduce new routines.
 柯蒂斯博士求助的公司有宝洁、高露洁棕榄和联合利华，这些公司已经投资了数亿美元，用以发掘消费者生活中能用于引入新惯例的微妙提示。
 
-If you look hard enough, you'll find that many of the products we use every day—chewing gums, skin moisturizers, disinfecting wipes, air fresheners, water purifiers, health snacks, teeth whiteners, fabric softeners, vitamins—are results of manufactured habits. A century ago, few people regularly brushed their teeth multiple times a day. Today, because of shrewd advertising and public health campaigns, many Americans habitually give their pearly whites a cavity-preventing scrub twice a day, often with Colgate, Crest or one of the other brands.
+ [If you look hard enough](#^e49b4c), you'll find that many of the products we use every day—chewing gums, skin moisturizers, disinfecting wipes, air fresheners, water purifiers, health snacks, teeth whiteners, fabric softeners, vitamins—are results of manufactured habits. A century ago, few people regularly brushed their teeth multiple times a day. Today, because of shrewd advertising and public health campaigns, many Americans habitually give their pearly whites a cavity-preventing scrub twice a day, often with Colgate, Crest or one of the other brands.
 如果观察得足够仔细，你会发现我们每天都在使用的许多产品——口香糖、润肤霜、消毒湿巾、空气清新剂、净水器、健康零食、牙齿美白剂、衣物柔顺剂、维生素等——都是“公司塑造消费者习惯”的成果。一个世纪以前，很少有人每天有规律地刷牙多次。而现在，受高明的广告宣传活动和公共卫生运动的影响，许多美国人往往会使用高露洁、佳洁士或某种其他品牌（的牙膏），每天习惯性地刷洗他们那如珍珠般洁白的牙齿两次，以预防龋齿。
 
 A few decades ago, many people didn't drink water outside of a meal. Then beverage companies started bottling the production of far-off springs, and now office workers unthinkingly sip bottled water all day long. Chewing gum, once bought primarily by adolescent boys, is now featured in commercials as a breath freshener and teeth cleanser for use after a meal. Skin moisturizers are advertised as part of morning beauty rituals, slipped in between hair brushing and putting on makeup.
@@ -111,15 +111,23 @@ Through experiments and observation, social scientists like Dr. Berning have lea
 + **according to** : 根据
 + **automatic** : adj. 自动的；必然的；无意识的，不假思索的
 + **automatic behaviors** : 不怎么思考就会做出来的行为
++ **beverage** : n. 饮料
++ **brushed** : n. 刷子，画笔
+v. 刷，拂拭；刷掉
 + **deeply** : adv. 很，非常；深刻地，深沉地；至深处
 + **effect** : n. 作用，影响；（刻意制造的）效果，印象；所有物，财产；生效，实行
++ **far-off** : adj. 遥远的
 + **industry** : n. 工业，生产制造；行业，产业；勤奋，勤劳；范围，领域
 + **influence** : 影响、有影响的人
++ **pearly whites** : 珍珠般洁白的牙齿
 + **private concerns** : 私人事务
 + **production** : n. （以销售为目的的）生产，制造；（对自然物的）加工，采集，生产；产量；（自然的）产生；（交通工具的）大量生产；（戏剧、电影、电视节目、唱片等的）制作；（戏剧、电影等的）上映，上演；（尤指从制作与公演等特点来看）影片，戏剧；音响效果，制作方式；<正式>出示，提供；<非正式>非常费力的事，非常复杂的事
 + **remain** : v. 逗留，留下；剩余，遗留；保持不变，一直是；仍需去做（或处理）
 n. 剩余（物），遗迹；遗体，残骸
 + **response** : n. 反应，响应；（口头或书面的）回复，答复；（考试题的）答案；（教堂中人们对牧师所说的话作出的）唱和，应答
++ **scrub** : 用力摩擦，来回蹭，洗刷，灌木丛
++ **shrewd** : adj. （人）精明的，机敏的；（决定和判断）精明的，准确的；（打击）沉重的，尖锐的；邪恶的，恶意的；<古>（尤指天气）寒冷刺骨的，凛冽的
++ **turned to** : 求助于，转向，致力于，开始做某事，投入某项工作
 + **wipe** : 擦干净，抹掉，抹布，纸巾
 
 ^^^notes
@@ -142,7 +150,39 @@ n. 剩余（物），遗迹；遗体，残骸
   - “很多公司已经把‘让消费者形成不假思索的习惯性行为’这套方法研究得非常成熟了。”
 
 ### 31题解析
+[跳转](#^fe78c3)
+^6d77d4
+
 **定位**："There are fundamental public health problems, like dirty hands instead of a soap habit, that remain killers only because we can't figure out how to change people's habits,"
 **分析**：博士认为要**改变**人们**不**使用肥皂洗手这一个习惯，**培养**人们使用肥皂洗手的习惯。
 **B**选项错在不是改变人们使用肥皂洗手的习惯
+
+### If you look hard enough
+
+^e49b4c
+
+这句 “If you look hard enough,” 是一个条件状语从句的开头（If 引导），在原文里它后面接的是主句 “you’ll find that …”，合起来表达一种“只要……就会……”的推论。
+
+结构
+
+If + 主语 you + 谓语 look + 状语 hard enough
+这里的 look 不是“看一眼”，更偏“仔细观察 / 留心去找（线索、规律）”。
+hard enough 的含义
+
+hard 在这里是副词，表示“努力地、认真地、仔细地”（= carefully / closely），不是“困难的”。
+enough 修饰 hard，表示“到足够的程度”。
+合起来就是：“只要你观察得足够仔细/找得足够认真”。
+语气与功能
+
+这是一种常见的写法，用来把结论包装成“显而易见、可被验证”：作者在说“我接下来讲的现象，你只要留意就会发现”。
+带一点“门槛不高但需要注意力”的意味：不是你看不到，而是你可能没认真看。
+更顺的中文译法（按语境）
+
+单独译：“如果你观察得足够仔细，”
+放回全文更自然：“只要你留心观察，你就会发现……” / “你只要细想/细看就能发现……”
+同类表达（帮助你识别）
+
+If you look closely, …
+If you pay attention, …
+If you dig deep enough, …
 

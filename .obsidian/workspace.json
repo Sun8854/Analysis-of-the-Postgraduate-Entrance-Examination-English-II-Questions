@@ -21,12 +21,14 @@
             "id": "0b1f6e0b211f7e15",
             "type": "leaf",
             "state": {
-              "type": "langr-reading",
+              "type": "markdown",
               "state": {
-                "file": "试题分析/2010/text3.md"
+                "file": "生词本.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "highlight-glyph",
-              "title": "text3"
+              "icon": "lucide-file",
+              "title": "生词本"
             }
           },
           {
@@ -123,8 +125,7 @@
               "title": "查词面板"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "574b2d1f66dbb8b2",
@@ -151,8 +152,7 @@
               "title": "学习新单词"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -265,7 +265,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 403.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,13 +290,16 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "0b1f6e0b211f7e15",
+  "active": "47548ad38e730681",
   "lastOpenFiles": [
-    "试题分析/2010/试题解析.md",
-    "试题分析/2010/text3.md",
-    "试题分析/2010/真题.md",
     "单词复习.md",
     "生词本.md",
+    "试题分析/2010/text3.md",
+    "The companies that Dr. Curtis turned to.md",
+    "Companies.md",
+    "If you look hard enough,.md",
+    "试题分析/2010/试题解析.md",
+    "试题分析/2010/真题.md",
     "试题分析/2010/text2.md",
     "未命名.base",
     "阅读模板.md",
@@ -334,9 +338,6 @@
     "Excalidraw/Scripts/Toggle Color.md",
     "Excalidraw/Scripts/Highlight and Bold Text.md",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
-    "试题分析/主观题/未命名.md",
-    "text4.md",
     "未命名.canvas"
   ]
 }

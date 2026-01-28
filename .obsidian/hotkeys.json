@@ -182,5 +182,22 @@
       ],
       "key": "S"
     }
+  ],
+  "link-with-alias:create-link": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ],
+  "link-with-alias:create-link-with-alias": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "W"
+    }
   ]
 }
