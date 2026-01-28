@@ -265,8 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5,
-    "collapsed": true
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,10 +289,10 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "47548ad38e730681",
+  "active": "468ec76b8076476a",
   "lastOpenFiles": [
-    "单词复习.md",
     "生词本.md",
+    "单词复习.md",
     "试题分析/2010/text3.md",
     "The companies that Dr. Curtis turned to.md",
     "Companies.md",
