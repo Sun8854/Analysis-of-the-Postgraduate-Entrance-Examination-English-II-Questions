@@ -35,10 +35,14 @@
             "id": "0f7d5bc23fbf2e08",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "生词本.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "生词本"
             }
           }
         ],
@@ -285,8 +289,11 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "0f7d5bc23fbf2e08",
+  "active": "ee91808e011d588a",
   "lastOpenFiles": [
+    "单词朗读/read_vocab.py",
+    "单词朗读/朗读生词本.ps1",
+    "单词朗读",
     "试题分析/2010/text3.md",
     "The author's attitude toward the influence of advertisement on people's habits is^.md",
     "there is power in tying certain behaviors to habitual cues through ruthless advertising..md",
@@ -321,8 +328,6 @@
     "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/e04bd70c-45cb-45be-b78f-1566ebca8256_origin.pdf",
     "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/e04bd70c-45cb-45be-b78f-1566ebca8256_model.json",
     "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/e04bd70c-45cb-45be-b78f-1566ebca8256_content_list.json",
-    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/block_list.json",
-    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c",
     "完型模板.md",
     "试题分析/2009/text4.md",
     "试题分析/2009/新题型.md",
@@ -332,7 +337,6 @@
     "Excalidraw/翻译.md",
     "Excalidraw/Scripts/Split Text.md",
     "Excalidraw/Scripts/Split Selected Text Block.md",
-    "Excalidraw/Scripts/Toggle Color.md",
     "未命名.canvas"
   ]
 }
