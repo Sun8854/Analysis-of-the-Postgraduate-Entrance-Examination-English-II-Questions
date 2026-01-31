@@ -30,9 +30,19 @@
               "icon": "lucide-file",
               "title": "text3"
             }
+          },
+          {
+            "id": "0f7d5bc23fbf2e08",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,11 +285,11 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "8072b2f623b0d373",
+  "active": "0f7d5bc23fbf2e08",
   "lastOpenFiles": [
+    "试题分析/2010/text3.md",
     "The author's attitude toward the influence of advertisement on people's habits is^.md",
     "there is power in tying certain behaviors to habitual cues through ruthless advertising..md",
-    "试题分析/2010/text3.md",
     "试题分析/2010/真题.md",
     "试题分析/2010/试题解析.md",
     "单词复习.md",
