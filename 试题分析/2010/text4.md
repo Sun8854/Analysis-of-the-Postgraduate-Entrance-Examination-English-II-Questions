@@ -106,16 +106,40 @@ In 1968, the Congress of the United States passed the Jury Selection and Service
 ^^^words
 + **account** : 叙述、账户、报道
 + **citizen** : n. 市民，城镇居民；公民，国民
++ **competent** : adj. 能干的，能胜任的；合格的，过得去的；精神正常的，智力无缺陷的；有决定权的；有法定资格的；活性的，（处于）感受态的
 + **concrete** : adj. 确实的，具体的；实在的，有形的；混凝土的；物质的
 n. 混凝土
 v. 用混凝土覆盖（或做成）；<旧>（使）凝固，（使）凝结；使真实（化），使具体（化）
 + **concrete expression** : 具体体现
++ **conscience** : n. 良知，良心；内疚，愧疚
 + **crucial** : adj. 至关重要的，决定性的；<非正式>极好的
 + **democratic** : adj. 平等的，有民主精神的；民主政体的；（美国）民主党的
++ **meet minimal qualification** : 满足最低要求
++ **on account of** : 由于，因为：表示某事发生的原因或理由。
+为了，为了……的缘故：表示为了某个目的或原因。
+根据，按照：表示根据某个标准或规定。
 + **origin** : 起源
 + **perform** : v. 执行，履行（尤指复杂的任务或行动）；演出，表演；运行，表现；起…...作用，有…...功能
 + **race** : 种族，比赛，奔跑
 + **recently** : adv. 最近，不久前
 + **represent** : v. 代表，表示；象征，体现；展示，描绘；（尤指不真实地）描述，描写；扮演；<正式>明确讲述，清楚说明；声称；正式提出（意见、抗议等）
++ **representative** : adj. 典型的，有代表性的；代表各类人（或事物）的；由代表组成的，代议制的；表现的，体现的；（艺术）具象派的；（哲） （与）表象（有关）的
+n. 代表，代理人；代表他人者；销售代表，销售代理；典型人物，有代表性的事物；（美国）众议院议员；（类或群的）样本，代表物
++ **serve on** : vt. 担任……的职；担当（担任）；成为……中的一员
++ **trial** : n. 审判，审理；试验，试用；（对人的忍耐、自制力的）考验，磨练；烦人的事，惹麻烦的人；预赛，选拔赛；（检验车手技能的）摩托车障碍检验赛；（动物的）比赛，表演
+v. 测试，试验；（马、狗等动物）参加比赛
+adj. 试验性的
 
 ^^^notes
+### 36题解析
+#### A、C
+**定位**：who meet minimal qualifications of age and literacy are equally competent to serve on juries
+**分析**:文中说的是要满足最低年龄和文化需求的公民可以担任陪审团
+的职务，并不是选项A中文盲不可以担任；C中的无年龄限制是错误的，有最低年龄限制。
+#### B
+**定位**：that defendants are entitled to trial by their peers
+**分析**：被告有权接受同等地位的人的审判，**immune from trial**在这句话中被译为免受审判
+#### D
+**定位**：verdicts should represent the conscience of the community and not just the letter of the law
+**分析**：判决应体现社会良知 $\rightarrow$ 判决应考虑公众意见
+
