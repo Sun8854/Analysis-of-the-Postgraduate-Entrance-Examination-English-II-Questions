@@ -35,14 +35,12 @@
             "id": "0f7d5bc23fbf2e08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "langr-reading",
               "state": {
-                "file": "生词本.md",
-                "mode": "source",
-                "source": false
+                "file": "试题分析/2010/text4.md"
               },
-              "icon": "lucide-file",
-              "title": "生词本"
+              "icon": "highlight-glyph",
+              "title": "text4"
             }
           }
         ],
@@ -125,7 +123,8 @@
               "title": "查词面板"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "574b2d1f66dbb8b2",
@@ -234,20 +233,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "试题分析/2010/text2.md"
+                "file": "试题分析/2010/text4.md"
               },
               "icon": "lucide-info",
-              "title": "text2的笔记属性"
-            }
-          },
-          {
-            "id": "8072b2f623b0d373",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "笔记复习序列"
+              "title": "text4的笔记属性"
             }
           },
           {
@@ -259,9 +248,19 @@
               "icon": "reading-glasses",
               "title": "学习新单词"
             }
+          },
+          {
+            "id": "7a642d0b5c399fc9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -289,13 +288,14 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "8072b2f623b0d373",
+  "active": "7a642d0b5c399fc9",
   "lastOpenFiles": [
+    "试题分析/2010/text3.md",
+    "试题分析/2010/text4.md",
     "生词本.md",
     "单词朗读/read_vocab.py",
     "单词朗读/朗读生词本.ps1",
     "单词朗读",
-    "试题分析/2010/text3.md",
     "The author's attitude toward the influence of advertisement on people's habits is^.md",
     "there is power in tying certain behaviors to habitual cues through ruthless advertising..md",
     "试题分析/2010/真题.md",
