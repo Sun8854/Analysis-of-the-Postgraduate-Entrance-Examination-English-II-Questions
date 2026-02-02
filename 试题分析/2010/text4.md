@@ -169,3 +169,31 @@ adj. 试验性的
 #### D
 最高法院反对种族歧视，选项中说法官是**arrogance**(傲慢)的，与文章意思相反
 
+### 38题解析
+#### 题目分析：
+根据**1960**定位到第三段，本题问女性很少出现在陪审团名单上的原因。
+#### A
+文中提到的是**automatically exempted**(自动免除)女性担任陪审员的义务，不是选项中的**automatically banned**(自动禁止)；女性的义务被忽视不是法律禁止。
+#### B
+文中没有提及女性不具备要求的条件，且根据Even then several states automatically exempted women from jury duty unless they personally asked to have their names included on the jury list(即使到那时，有些州还是自动免除了女性的陪审员义务，除非她们自己要求将名字列入陪审团名单)**可看出大部分州是免除了女性的陪审员义务，不是不具备要求。**
+#### C
+**定位**：This practice was justified by the claim that women were needed at home
+#### D
+文中没有提及**女性**与**public engagement**(公共事务)之间的关系
+
+### 39题解析
+#### 题目分析：
+题目问**Jury Selection and Service Act**产生的影响，定位到最后一段。
+#### A、C
+**定位**：In the landmark 1975 decision Taylor v. Louisiana, the Supreme Court extended the requirement that juries be representative of all parts of the community to the state level. The Taylor decision also declared sex discrimination in jury selection to be unconstitutional and ordered states to use the same procedures for selecting male and female jurors.
+**分析**：这两个选项提到的内容均是**Taylor v. Louisiana**一案造成的影响，不是**Jury Selection and Service Act**的影响。
+#### B
+**定位**：This law abolished special educational requirements for federal jurors
+**分析**：废除特殊教育需求
+#### D
+**定位**：the Supreme Court extended the requirement that juries be representative of all parts of the community to the state level
+**分析**：最高法院将要求延伸到了各州，并没有说各州要按照联邦的规定改革
+
+### 40题解析
+文章介绍了历史上各个阶段的陪审团制度(**tradition**)与陪审团制度随时间的**development**(发展)
+
