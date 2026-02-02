@@ -156,3 +156,16 @@ adj. 试验性的
 **定位**：verdicts should represent the conscience of the community and not just the letter of the law
 **分析**：判决应体现社会良知 $\rightarrow$ 判决应考虑公众意见
 
+### 37题解析
+#### 题目分析：
+根据**1968**定位到第二段，题目问selecting so-called elite jurors表明了什么问题。
+**selecting so-called elite jurors**：选举所谓的精英陪审团。文中提到，通过这个制度为绕过反歧视法提供了便利
+#### A
+通过精英陪审团制度可绕过反歧视法，表明该法律**inadequacy**(不充分)；选项正确。
+#### B
+精英陪审团制度，是为所谓的精英阶级提供便利，文中并未指出对**certain**(某一)种族有**prevalent**(普遍)歧视
+#### C
+通过**conflicting**定位到jury selection procedures conflicted with these democratic ideals，conflict(冲突)是发生在民主与陪审团选拔程序之间，不是陪审团选拔程序内部
+#### D
+最高法院反对种族歧视，选项中说法官是**arrogance**(傲慢)的，与文章意思相反
+
