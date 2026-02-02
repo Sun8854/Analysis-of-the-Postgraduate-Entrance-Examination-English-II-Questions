@@ -109,7 +109,8 @@
               "title": "查词面板"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "574b2d1f66dbb8b2",
@@ -245,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -273,7 +274,7 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "7a642d0b5c399fc9",
+  "active": "149770871f147dc4",
   "lastOpenFiles": [
     "Polysemy Bridge/SKILL.md.md",
     "Polysemy Bridge/SKILL.md",
