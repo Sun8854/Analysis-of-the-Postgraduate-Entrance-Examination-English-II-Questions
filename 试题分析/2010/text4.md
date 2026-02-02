@@ -104,6 +104,18 @@ In 1968, the Congress of the United States passed the Jury Selection and Service
 
 
 ^^^words
-
++ **account** : 叙述、账户、报道
++ **citizen** : n. 市民，城镇居民；公民，国民
++ **concrete** : adj. 确实的，具体的；实在的，有形的；混凝土的；物质的
+n. 混凝土
+v. 用混凝土覆盖（或做成）；<旧>（使）凝固，（使）凝结；使真实（化），使具体（化）
++ **concrete expression** : 具体体现
++ **crucial** : adj. 至关重要的，决定性的；<非正式>极好的
++ **democratic** : adj. 平等的，有民主精神的；民主政体的；（美国）民主党的
++ **origin** : 起源
++ **perform** : v. 执行，履行（尤指复杂的任务或行动）；演出，表演；运行，表现；起…...作用，有…...功能
++ **race** : 种族，比赛，奔跑
++ **recently** : adv. 最近，不久前
++ **represent** : v. 代表，表示；象征，体现；展示，描绘；（尤指不真实地）描述，描写；扮演；<正式>明确讲述，清楚说明；声称；正式提出（意见、抗议等）
 
 ^^^notes

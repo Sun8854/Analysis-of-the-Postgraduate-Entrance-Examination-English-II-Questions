@@ -21,20 +21,6 @@
             "id": "149770871f147dc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "试题分析/2010/text3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "text3"
-            }
-          },
-          {
-            "id": "0f7d5bc23fbf2e08",
-            "type": "leaf",
-            "state": {
               "type": "langr-reading",
               "state": {
                 "file": "试题分析/2010/text4.md"
@@ -44,7 +30,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -288,15 +274,23 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "0f7d5bc23fbf2e08",
+  "active": "7a642d0b5c399fc9",
   "lastOpenFiles": [
     "试题分析/2010/text3.md",
+    "my-skill/references/USAGE.md",
+    "my-skill/assets/OUTPUT_TEMPLATE.md",
+    "The author's attitude toward the influence of advertisement on people's habits is^.md",
     "试题分析/2010/text4.md",
+    "my-skill/SKILL.md",
+    "my-skill/scripts",
+    "my-skill/references",
+    "my-skill/assets",
+    "my-skill",
+    "英语长难句分析_AgentSkill.md",
     "生词本.md",
     "单词朗读/read_vocab.py",
     "单词朗读/朗读生词本.ps1",
     "单词朗读",
-    "The author's attitude toward the influence of advertisement on people's habits is^.md",
     "there is power in tying certain behaviors to habitual cues through ruthless advertising..md",
     "试题分析/2010/真题.md",
     "试题分析/2010/试题解析.md",
@@ -323,19 +317,11 @@
     "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/e0066814feb2a3bceb19f019184ebe701fe127d70413c87839bbc829bf9ffbf3.jpg",
     "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/ea3752dc817fe40d16040a584afbd9851a91d81e5cc1b5c153deddaba5f78a31.jpg",
     "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/dead973ca6406a28ac8d4ae0e965c5c886683da9576eca411cd573167583a39f.jpg",
-    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/layout.json",
-    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images",
-    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/e04bd70c-45cb-45be-b78f-1566ebca8256_origin.pdf",
-    "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/e04bd70c-45cb-45be-b78f-1566ebca8256_model.json",
     "完型模板.md",
     "试题分析/2009/text4.md",
     "试题分析/2009/新题型.md",
     "试题分析/2009/翻译.md",
     "Excalidraw/Drawing 2026-01-21 14.39.50.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-21 14.34.26.excalidraw.md",
-    "Excalidraw/翻译.md",
-    "Excalidraw/Scripts/Split Text.md",
-    "Excalidraw/Scripts/Split Selected Text Block.md",
     "未命名.canvas"
   ]
 }
