@@ -18,14 +18,16 @@
             }
           },
           {
-            "id": "149770871f147dc4",
+            "id": "2c4cf75fde3c50d9",
             "type": "leaf",
             "state": {
-              "type": "langr-reading",
+              "type": "markdown",
               "state": {
-                "file": "试题分析/2010/text4.md"
+                "file": "试题分析/2010/text4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "highlight-glyph",
+              "icon": "lucide-file",
               "title": "text4"
             }
           }
@@ -109,8 +111,7 @@
               "title": "查词面板"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "574b2d1f66dbb8b2",
@@ -274,14 +275,15 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "7a642d0b5c399fc9",
+  "active": "2c4cf75fde3c50d9",
   "lastOpenFiles": [
+    "^.md",
+    "试题分析/2010/text4.md",
     "Polysemy Bridge/SKILL.md.md",
     "Polysemy Bridge/SKILL.md",
     "Polysemy Bridge",
     "AgentSkills/SKILL.md.md",
     "试题分析/2010/试题解析.md",
-    "试题分析/2010/text4.md",
     "AgentSkills/pattern-senses-agent-skill.md",
     "AgentSkills",
     "试题分析/2010/text3.md",
@@ -321,7 +323,6 @@
     "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/e0066814feb2a3bceb19f019184ebe701fe127d70413c87839bbc829bf9ffbf3.jpg",
     "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/ea3752dc817fe40d16040a584afbd9851a91d81e5cc1b5c153deddaba5f78a31.jpg",
     "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/dead973ca6406a28ac8d4ae0e965c5c886683da9576eca411cd573167583a39f.jpg",
-    "完型模板.md",
     "未命名.canvas"
   ]
 }
