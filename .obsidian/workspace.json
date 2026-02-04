@@ -21,11 +21,13 @@
             "id": "2c4cf75fde3c50d9",
             "type": "leaf",
             "state": {
-              "type": "langr-reading",
+              "type": "markdown",
               "state": {
-                "file": "试题分析/2010/新题型.md"
+                "file": "试题分析/2010/新题型.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "highlight-glyph",
+              "icon": "lucide-file",
               "title": "新题型"
             }
           }
@@ -274,7 +276,7 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "8be5810b1a2240b5",
+  "active": "2c4cf75fde3c50d9",
   "lastOpenFiles": [
     "阅读模板.md",
     "试题分析/2010/新题型.md",
