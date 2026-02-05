@@ -30,9 +30,23 @@
               "icon": "lucide-file",
               "title": "新题型"
             }
+          },
+          {
+            "id": "674bd63f2686a2b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "试题分析/2010/翻译.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "翻译"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,8 +125,7 @@
               "title": "查词面板"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "574b2d1f66dbb8b2",
@@ -133,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 200
   },
   "right": {
     "id": "bbc35f96d24d03a6",
@@ -252,7 +265,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 403.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,10 +290,12 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "7a642d0b5c399fc9",
+  "active": "674bd63f2686a2b4",
   "lastOpenFiles": [
-    "阅读模板.md",
+    "试题分析/2010/Drawing 2026-02-05 21.50.49.excalidraw.md",
+    "试题分析/2010/翻译.md",
     "试题分析/2010/新题型.md",
+    "阅读模板.md",
     "试题分析/2010/text1.md",
     "试题分析/2010/试题解析.md",
     "英语长难句分析_AgentSkill.md",
@@ -312,8 +328,6 @@
     "If you look hard enough,.md",
     "试题分析/2010/text2.md",
     "未命名.base",
-    "考研单词5500词/part1.md",
-    "试题分析/2009/完型.md",
     "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/fd8128ae83207decb7db904a3abcedaedf332deab41c8b16d5a54f5c5d6cf911.jpg",
     "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/f49d3024f55062b038b8a6450df1142c67bb0f3b72dbf9a4884df0f202c865d3.jpg",
     "2009年考研英语真题解析.pdf-04189d1e-8354-43d4-ab9c-461342576c4c/images/f7e577eb3218a9af2fc13f2c8ea6bea2190d1d4b3b7423a9c50d672fd7fd41ec.jpg",
