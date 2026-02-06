@@ -46,6 +46,18 @@
             }
           },
           {
+            "id": "2d8142369a930ed9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.7"
+            }
+          },
+          {
             "id": "4564ff8c5b32d1ad",
             "type": "leaf",
             "state": {
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -332,7 +344,7 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "674bd63f2686a2b4",
+  "active": "7a642d0b5c399fc9",
   "lastOpenFiles": [
     "翻译总结.md",
     "试题分析/2010/翻译.md",
