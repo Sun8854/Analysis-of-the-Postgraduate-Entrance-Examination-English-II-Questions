@@ -8,5 +8,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "focusNewTab": false
+  "focusNewTab": false,
+  "strictLineBreaks": false
 }

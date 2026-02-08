@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "bbc35f96d24d03a6",
@@ -306,7 +305,7 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "78e0da956ba61484",
+  "active": "47548ad38e730681",
   "lastOpenFiles": [
     "单词复习.md",
     "未命名.base",
